@@ -1,0 +1,32 @@
+{
+  "name": "sanzowadacolors",
+  "version": "1.0.0",
+  "description": "Color palettes from Sanzo Wada's Color Book ",
+  "main": "dist/palettes.js",
+  "type": "module",
+  "scripts": {
+    "build": "node ./transform.js && palette-aldente ./combinations.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/sanzoWadaColors.git"
+  },
+  "keywords": [
+    "color",
+    "colour",
+    "colors",
+    "colours",
+    "palette",
+    "palettes"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/sanzoWadaColors/issues"
+  },
+  "homepage": "https://github.com/meodai/sanzoWadaColors#readme",
+  "devDependencies": {
+    "palette-aldente": "^1.11.1"
+  }
+}

@@ -1,0 +1,1037 @@
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 9048">
+      <style>
+        text {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+        text {
+          font-size: 6px;
+        }
+      </style>
+      <text y="7" x="3">Combination 176</text><rect width="64.66666666666667" height="10" y="10" x="0" fill="#ffb3f0" />
+<rect width="64.66666666666667" height="10" y="10" x="66.66666666666667" fill="#ffcfc4" />
+<rect width="64.66666666666667" height="10" y="10" x="133.33333333333334" fill="#80ffcc" />
+<text y="33" x="3">Combination 227</text><rect width="64.66666666666667" height="10" y="36" x="0" fill="#ffb3f0" />
+<rect width="64.66666666666667" height="10" y="36" x="66.66666666666667" fill="#a6e6db" />
+<rect width="64.66666666666667" height="10" y="36" x="133.33333333333334" fill="#29bdad" />
+<text y="59" x="3">Combination 273</text><rect width="48" height="10" y="62" x="0" fill="#ffb3f0" />
+<rect width="48" height="10" y="62" x="50" fill="#6f0043" />
+<rect width="48" height="10" y="62" x="100" fill="#9b5348" />
+<rect width="48" height="10" y="62" x="150" fill="#b5d1cc" />
+<text y="85" x="3">Combination 27</text><rect width="98" height="10" y="88" x="0" fill="#ffa6d9" />
+<rect width="98" height="10" y="88" x="100" fill="#1b3644" />
+<text y="111" x="3">Combination 43</text><rect width="98" height="10" y="114" x="0" fill="#ffa6d9" />
+<rect width="98" height="10" y="114" x="100" fill="#9c52f2" />
+<text y="137" x="3">Combination 87</text><rect width="98" height="10" y="140" x="0" fill="#ffa6d9" />
+<rect width="98" height="10" y="140" x="100" fill="#a6d40d" />
+<text y="163" x="3">Combination 97</text><rect width="98" height="10" y="166" x="0" fill="#ffa6d9" />
+<rect width="98" height="10" y="166" x="100" fill="#c9303e" />
+<text y="189" x="3">Combination 128</text><rect width="64.66666666666667" height="10" y="192" x="0" fill="#ffa6d9" />
+<rect width="64.66666666666667" height="10" y="192" x="66.66666666666667" fill="#6bffb3" />
+<rect width="64.66666666666667" height="10" y="192" x="133.33333333333334" fill="#9161f2" />
+<text y="215" x="3">Combination 169</text><rect width="64.66666666666667" height="10" y="218" x="0" fill="#ffa6d9" />
+<rect width="64.66666666666667" height="10" y="218" x="66.66666666666667" fill="#fff59e" />
+<rect width="64.66666666666667" height="10" y="218" x="133.33333333333334" fill="#9cb29e" />
+<text y="241" x="3">Combination 174</text><rect width="64.66666666666667" height="10" y="244" x="0" fill="#ffa6d9" />
+<rect width="64.66666666666667" height="10" y="244" x="66.66666666666667" fill="#bfabcc" />
+<rect width="64.66666666666667" height="10" y="244" x="133.33333333333334" fill="#6b2e63" />
+<text y="267" x="3">Combination 206</text><rect width="64.66666666666667" height="10" y="270" x="0" fill="#ffa6d9" />
+<rect width="64.66666666666667" height="10" y="270" x="66.66666666666667" fill="#fa9442" />
+<rect width="64.66666666666667" height="10" y="270" x="133.33333333333334" fill="#c2612c" />
+<text y="293" x="3">Combination 246</text><rect width="48" height="10" y="296" x="0" fill="#ffa6d9" />
+<rect width="48" height="10" y="296" x="50" fill="#a32100" />
+<rect width="48" height="10" y="296" x="100" fill="#f5f5b8" />
+<rect width="48" height="10" y="296" x="150" fill="#ffbf6e" />
+<text y="319" x="3">Combination 254</text><rect width="48" height="10" y="322" x="0" fill="#ffa6d9" />
+<rect width="48" height="10" y="322" x="50" fill="#f5f5b8" />
+<rect width="48" height="10" y="322" x="100" fill="#718600" />
+<rect width="48" height="10" y="322" x="150" fill="#cc85d1" />
+<text y="345" x="3">Combination 264</text><rect width="48" height="10" y="348" x="0" fill="#ffa6d9" />
+<rect width="48" height="10" y="348" x="50" fill="#e81900" />
+<rect width="48" height="10" y="348" x="100" fill="#b3d9a3" />
+<rect width="48" height="10" y="348" x="150" fill="#29bdad" />
+<text y="371" x="3">Combination 342</text><rect width="48" height="10" y="374" x="0" fill="#ffa6d9" />
+<rect width="48" height="10" y="374" x="50" fill="#ffb852" />
+<rect width="48" height="10" y="374" x="100" fill="#8c6510" />
+<rect width="48" height="10" y="374" x="150" fill="#172713" />
+<text y="397" x="3">Combination 101</text><rect width="98" height="10" y="400" x="0" fill="#e6adcf" />
+<rect width="98" height="10" y="400" x="100" fill="#0024cc" />
+<text y="423" x="3">Combination 105</text><rect width="198" height="10" y="426" x="0" fill="#e6adcf" />
+<text y="449" x="3">Combination 116</text><rect width="98" height="10" y="452" x="0" fill="#e6adcf" />
+<rect width="98" height="10" y="452" x="100" fill="#4733ff" />
+<text y="475" x="3">Combination 120</text><rect width="98" height="10" y="478" x="0" fill="#e6adcf" />
+<rect width="98" height="10" y="478" x="100" fill="#a90636" />
+<text y="501" x="3">Combination 165</text><rect width="64.66666666666667" height="10" y="504" x="0" fill="#e6adcf" />
+<rect width="64.66666666666667" height="10" y="504" x="66.66666666666667" fill="#ff4dc9" />
+<rect width="64.66666666666667" height="10" y="504" x="133.33333333333334" fill="#5c2c45" />
+<text y="527" x="3">Combination 231</text><rect width="64.66666666666667" height="10" y="530" x="0" fill="#e6adcf" />
+<rect width="64.66666666666667" height="10" y="530" x="66.66666666666667" fill="#681916" />
+<rect width="64.66666666666667" height="10" y="530" x="133.33333333333334" fill="#4f8fe6" />
+<text y="553" x="3">Combination 18</text><rect width="98" height="10" y="556" x="0" fill="#d1b0b3" />
+<rect width="98" height="10" y="556" x="100" fill="#2d0060" />
+<text y="579" x="3">Combination 125</text><rect width="64.66666666666667" height="10" y="582" x="0" fill="#d1b0b3" />
+<rect width="64.66666666666667" height="10" y="582" x="66.66666666666667" fill="#29bdad" />
+<rect width="64.66666666666667" height="10" y="582" x="133.33333333333334" fill="#202d85" />
+<text y="605" x="3">Combination 308</text><rect width="48" height="10" y="608" x="0" fill="#d1b0b3" />
+<rect width="48" height="10" y="608" x="50" fill="#d50c42" />
+<rect width="48" height="10" y="608" x="100" fill="#de4500" />
+<rect width="48" height="10" y="608" x="150" fill="#94ff94" />
+<text y="631" x="3">Combination 35</text><rect width="98" height="10" y="634" x="0" fill="#b08699" />
+<rect width="98" height="10" y="634" x="100" fill="#a10b2b" />
+<text y="657" x="3">Combination 68</text><rect width="98" height="10" y="660" x="0" fill="#b08699" />
+<rect width="98" height="10" y="660" x="100" fill="#ffff00" />
+<text y="683" x="3">Combination 185</text><rect width="64.66666666666667" height="10" y="686" x="0" fill="#b08699" />
+<rect width="64.66666666666667" height="10" y="686" x="66.66666666666667" fill="#c9303e" />
+<rect width="64.66666666666667" height="10" y="686" x="133.33333333333334" fill="#fff59e" />
+<text y="709" x="3">Combination 191</text><rect width="64.66666666666667" height="10" y="712" x="0" fill="#b08699" />
+<rect width="64.66666666666667" height="10" y="712" x="66.66666666666667" fill="#e0b81f" />
+<rect width="64.66666666666667" height="10" y="712" x="133.33333333333334" fill="#0d75ff" />
+<text y="735" x="3">Combination 223</text><rect width="64.66666666666667" height="10" y="738" x="0" fill="#b08699" />
+<rect width="64.66666666666667" height="10" y="738" x="66.66666666666667" fill="#d99e73" />
+<rect width="64.66666666666667" height="10" y="738" x="133.33333333333334" fill="#b5ffc2" />
+<text y="761" x="3">Combination 239</text><rect width="64.66666666666667" height="10" y="764" x="0" fill="#b08699" />
+<rect width="64.66666666666667" height="10" y="764" x="66.66666666666667" fill="#c4bf33" />
+<rect width="64.66666666666667" height="10" y="764" x="133.33333333333334" fill="#b3e8c2" />
+<text y="787" x="3">Combination 244</text><rect width="48" height="10" y="790" x="0" fill="#b08699" />
+<rect width="48" height="10" y="790" x="50" fill="#c74300" />
+<rect width="48" height="10" y="790" x="100" fill="#5c8a73" />
+<rect width="48" height="10" y="790" x="150" fill="#008aa1" />
+<text y="813" x="3">Combination 268</text><rect width="48" height="10" y="816" x="0" fill="#b08699" />
+<rect width="48" height="10" y="816" x="50" fill="#b85e00" />
+<rect width="48" height="10" y="816" x="100" fill="#172713" />
+<rect width="48" height="10" y="816" x="150" fill="#bfffe6" />
+<text y="839" x="3">Combination 285</text><rect width="48" height="10" y="842" x="0" fill="#b08699" />
+<rect width="48" height="10" y="842" x="50" fill="#a93400" />
+<rect width="48" height="10" y="842" x="100" fill="#ff3319" />
+<rect width="48" height="10" y="842" x="150" fill="#b5ffc2" />
+<text y="865" x="3">Combination 321</text><rect width="48" height="10" y="868" x="0" fill="#b08699" />
+<rect width="48" height="10" y="868" x="50" fill="#f5f5b8" />
+<rect width="48" height="10" y="868" x="100" fill="#172713" />
+<rect width="48" height="10" y="868" x="150" fill="#96bfe6" />
+<text y="891" x="3">Combination 92</text><rect width="98" height="10" y="894" x="0" fill="#ff7399" />
+<rect width="98" height="10" y="894" x="100" fill="#00d973" />
+<text y="917" x="3">Combination 123</text><rect width="64.66666666666667" height="10" y="920" x="0" fill="#ff7399" />
+<rect width="64.66666666666667" height="10" y="920" x="66.66666666666667" fill="#f2ff26" />
+<rect width="64.66666666666667" height="10" y="920" x="133.33333333333334" fill="#6b2e63" />
+<text y="943" x="3">Combination 320</text><rect width="48" height="10" y="946" x="0" fill="#ff7399" />
+<rect width="48" height="10" y="946" x="50" fill="#f5f5b8" />
+<rect width="48" height="10" y="946" x="100" fill="#6ea900" />
+<rect width="48" height="10" y="946" x="150" fill="#a6e6db" />
+<text y="969" x="3">Combination 332</text><rect width="48" height="10" y="972" x="0" fill="#ff7399" />
+<rect width="48" height="10" y="972" x="50" fill="#d50c42" />
+<rect width="48" height="10" y="972" x="100" fill="#172713" />
+<rect width="48" height="10" y="972" x="150" fill="#00592e" />
+<text y="995" x="3">Combination 240</text><rect width="64.66666666666667" height="10" y="998" x="0" fill="#ff788c" />
+<rect width="64.66666666666667" height="10" y="998" x="66.66666666666667" fill="#ffff00" />
+<rect width="64.66666666666667" height="10" y="998" x="133.33333333333334" fill="#29bdad" />
+<text y="1021" x="3">Combination 6</text><rect width="98" height="10" y="1024" x="0" fill="#ff616b" />
+<rect width="98" height="10" y="1024" x="100" fill="#000831" />
+<text y="1047" x="3">Combination 21</text><rect width="98" height="10" y="1050" x="0" fill="#ff616b" />
+<rect width="98" height="10" y="1050" x="100" fill="#33ff7d" />
+<text y="1073" x="3">Combination 112</text><rect width="98" height="10" y="1076" x="0" fill="#ff616b" />
+<rect width="98" height="10" y="1076" x="100" fill="#000000" />
+<text y="1099" x="3">Combination 166</text><rect width="64.66666666666667" height="10" y="1102" x="0" fill="#ff616b" />
+<rect width="64.66666666666667" height="10" y="1102" x="66.66666666666667" fill="#faed8f" />
+<rect width="64.66666666666667" height="10" y="1102" x="133.33333333333334" fill="#0f261f" />
+<text y="1125" x="3">Combination 193</text><rect width="64.66666666666667" height="10" y="1128" x="0" fill="#ff616b" />
+<rect width="64.66666666666667" height="10" y="1128" x="66.66666666666667" fill="#faed8f" />
+<rect width="64.66666666666667" height="10" y="1128" x="133.33333333333334" fill="#23c17c" />
+<text y="1151" x="3">Combination 201</text><rect width="64.66666666666667" height="10" y="1154" x="0" fill="#ff616b" />
+<rect width="64.66666666666667" height="10" y="1154" x="66.66666666666667" fill="#718600" />
+<rect width="64.66666666666667" height="10" y="1154" x="133.33333333333334" fill="#94ff94" />
+<text y="1177" x="3">Combination 230</text><rect width="64.66666666666667" height="10" y="1180" x="0" fill="#ff616b" />
+<rect width="64.66666666666667" height="10" y="1180" x="66.66666666666667" fill="#b5ffc2" />
+<rect width="64.66666666666667" height="10" y="1180" x="133.33333333333334" fill="#94ff94" />
+<text y="1203" x="3">Combination 300</text><rect width="48" height="10" y="1206" x="0" fill="#ff616b" />
+<rect width="48" height="10" y="1206" x="50" fill="#ffb852" />
+<rect width="48" height="10" y="1206" x="100" fill="#b5ffc2" />
+<rect width="48" height="10" y="1206" x="150" fill="#80ffcc" />
+<text y="1229" x="3">Combination 315</text><rect width="48" height="10" y="1232" x="0" fill="#ff616b" />
+<rect width="48" height="10" y="1232" x="50" fill="#f5f5b8" />
+<rect width="48" height="10" y="1232" x="100" fill="#fa9442" />
+<rect width="48" height="10" y="1232" x="150" fill="#bf36e0" />
+<text y="1255" x="3">Combination 341</text><rect width="48" height="10" y="1258" x="0" fill="#ff616b" />
+<rect width="48" height="10" y="1258" x="50" fill="#328e13" />
+<rect width="48" height="10" y="1258" x="100" fill="#172713" />
+<rect width="48" height="10" y="1258" x="150" fill="#a6e6db" />
+<text y="1281" x="3">Combination 34</text><rect width="98" height="10" y="1284" x="0" fill="#ff5ec4" />
+<rect width="98" height="10" y="1284" x="100" fill="#b5d1cc" />
+<text y="1307" x="3">Combination 59</text><rect width="198" height="10" y="1310" x="0" fill="#ff5ec4" />
+<text y="1333" x="3">Combination 90</text><rect width="98" height="10" y="1336" x="0" fill="#ff5ec4" />
+<rect width="98" height="10" y="1336" x="100" fill="#9c52f2" />
+<text y="1359" x="3">Combination 108</text><rect width="98" height="10" y="1362" x="0" fill="#ff5ec4" />
+<rect width="98" height="10" y="1362" x="100" fill="#a32100" />
+<text y="1385" x="3">Combination 134</text><rect width="64.66666666666667" height="10" y="1388" x="0" fill="#ff5ec4" />
+<rect width="64.66666666666667" height="10" y="1388" x="66.66666666666667" fill="#9161f2" />
+<rect width="64.66666666666667" height="10" y="1388" x="133.33333333333334" fill="#3400a3" />
+<text y="1411" x="3">Combination 153</text><rect width="64.66666666666667" height="10" y="1414" x="0" fill="#ff5ec4" />
+<rect width="64.66666666666667" height="10" y="1414" x="66.66666666666667" fill="#ffab00" />
+<rect width="64.66666666666667" height="10" y="1414" x="133.33333333333334" fill="#a6d40d" />
+<text y="1437" x="3">Combination 197</text><rect width="64.66666666666667" height="10" y="1440" x="0" fill="#ff5ec4" />
+<rect width="64.66666666666667" height="10" y="1440" x="66.66666666666667" fill="#4d52de" />
+<rect width="64.66666666666667" height="10" y="1440" x="133.33333333333334" fill="#b5d1cc" />
+<text y="1463" x="3">Combination 242</text><rect width="48" height="10" y="1466" x="0" fill="#ff5ec4" />
+<rect width="48" height="10" y="1466" x="50" fill="#a93400" />
+<rect width="48" height="10" y="1466" x="100" fill="#1b8e13" />
+<rect width="48" height="10" y="1466" x="150" fill="#000000" />
+<text y="1489" x="3">Combination 248</text><rect width="48" height="10" y="1492" x="0" fill="#ff5ec4" />
+<rect width="48" height="10" y="1492" x="50" fill="#b68400" />
+<rect width="48" height="10" y="1492" x="100" fill="#b8b8ff" />
+<rect width="48" height="10" y="1492" x="150" fill="#53225c" />
+<text y="1515" x="3">Combination 276</text><rect width="48" height="10" y="1518" x="0" fill="#ff5ec4" />
+<rect width="48" height="10" y="1518" x="50" fill="#ffcfc4" />
+<rect width="48" height="10" y="1518" x="100" fill="#a6ff47" />
+<rect width="48" height="10" y="1518" x="150" fill="#000000" />
+<text y="1541" x="3">Combination 287</text><rect width="48" height="10" y="1544" x="0" fill="#ff5ec4" />
+<rect width="48" height="10" y="1544" x="50" fill="#c4bf33" />
+<rect width="48" height="10" y="1544" x="100" fill="#abf5ed" />
+<rect width="48" height="10" y="1544" x="150" fill="#80ffcc" />
+<text y="1567" x="3">Combination 314</text><rect width="48" height="10" y="1570" x="0" fill="#ff5ec4" />
+<rect width="48" height="10" y="1570" x="50" fill="#681916" />
+<rect width="48" height="10" y="1570" x="100" fill="#0024cc" />
+<rect width="48" height="10" y="1570" x="150" fill="#2d0060" />
+<text y="1593" x="3">Combination 327</text><rect width="48" height="10" y="1596" x="0" fill="#ff5ec4" />
+<rect width="48" height="10" y="1596" x="50" fill="#b85e00" />
+<rect width="48" height="10" y="1596" x="100" fill="#c0b490" />
+<rect width="48" height="10" y="1596" x="150" fill="#bfabcc" />
+<text y="1619" x="3">Combination 336</text><rect width="48" height="10" y="1622" x="0" fill="#ff5ec4" />
+<rect width="48" height="10" y="1622" x="50" fill="#681916" />
+<rect width="48" height="10" y="1622" x="100" fill="#fff59e" />
+<rect width="48" height="10" y="1622" x="150" fill="#324e2a" />
+<text y="1645" x="3">Combination 14</text><rect width="98" height="10" y="1648" x="0" fill="#ff4dc9" />
+<rect width="98" height="10" y="1648" x="100" fill="#faed8f" />
+<text y="1671" x="3">Combination 147</text><rect width="64.66666666666667" height="10" y="1674" x="0" fill="#ff4dc9" />
+<rect width="64.66666666666667" height="10" y="1674" x="66.66666666666667" fill="#740909" />
+<rect width="64.66666666666667" height="10" y="1674" x="133.33333333333334" fill="#b5ffc2" />
+<text y="1697" x="3">Combination 184</text><rect width="64.66666666666667" height="10" y="1700" x="0" fill="#ff4dc9" />
+<rect width="64.66666666666667" height="10" y="1700" x="66.66666666666667" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="1700" x="133.33333333333334" fill="#76844e" />
+<text y="1723" x="3">Combination 195</text><rect width="64.66666666666667" height="10" y="1726" x="0" fill="#ff4dc9" />
+<rect width="64.66666666666667" height="10" y="1726" x="66.66666666666667" fill="#fff59e" />
+<rect width="64.66666666666667" height="10" y="1726" x="133.33333333333334" fill="#b5d1cc" />
+<text y="1749" x="3">Combination 224</text><rect width="64.66666666666667" height="10" y="1752" x="0" fill="#ff4dc9" />
+<rect width="64.66666666666667" height="10" y="1752" x="66.66666666666667" fill="#417777" />
+<rect width="64.66666666666667" height="10" y="1752" x="133.33333333333334" fill="#6b2e63" />
+<text y="1775" x="3">Combination 277</text><rect width="48" height="10" y="1778" x="0" fill="#ff4dc9" />
+<rect width="48" height="10" y="1778" x="50" fill="#b319ab" />
+<rect width="48" height="10" y="1778" x="100" fill="#718600" />
+<rect width="48" height="10" y="1778" x="150" fill="#06004f" />
+<text y="1801" x="3">Combination 55</text><rect width="98" height="10" y="1804" x="0" fill="#d94d99" />
+<rect width="98" height="10" y="1804" x="100" fill="#ffffff" />
+<text y="1827" x="3">Combination 162</text><rect width="64.66666666666667" height="10" y="1830" x="0" fill="#d94d99" />
+<rect width="64.66666666666667" height="10" y="1830" x="66.66666666666667" fill="#85b857" />
+<rect width="64.66666666666667" height="10" y="1830" x="133.33333333333334" fill="#b875eb" />
+<text y="1853" x="3">Combination 260</text><rect width="48" height="10" y="1856" x="0" fill="#d94d99" />
+<rect width="48" height="10" y="1856" x="50" fill="#f59994" />
+<rect width="48" height="10" y="1856" x="100" fill="#b3e8c2" />
+<rect width="48" height="10" y="1856" x="150" fill="#33ff7d" />
+<text y="1879" x="3">Combination 265</text><rect width="48" height="10" y="1882" x="0" fill="#d94d99" />
+<rect width="48" height="10" y="1882" x="50" fill="#ffe600" />
+<rect width="48" height="10" y="1882" x="100" fill="#99b333" />
+<rect width="48" height="10" y="1882" x="150" fill="#06004f" />
+<text y="1905" x="3">Combination 284</text><rect width="48" height="10" y="1908" x="0" fill="#ed3d66" />
+<rect width="48" height="10" y="1908" x="50" fill="#ffe600" />
+<rect width="48" height="10" y="1908" x="100" fill="#33ff7d" />
+<rect width="48" height="10" y="1908" x="150" fill="#00592e" />
+<text y="1931" x="3">Combination 17</text><rect width="98" height="10" y="1934" x="0" fill="#e62e73" />
+<rect width="98" height="10" y="1934" x="100" fill="#33ff7d" />
+<text y="1957" x="3">Combination 77</text><rect width="98" height="10" y="1960" x="0" fill="#e62e73" />
+<rect width="98" height="10" y="1960" x="100" fill="#003e83" />
+<text y="1983" x="3">Combination 252</text><rect width="48" height="10" y="1986" x="0" fill="#e62e73" />
+<rect width="48" height="10" y="1986" x="50" fill="#b85e00" />
+<rect width="48" height="10" y="1986" x="100" fill="#baa600" />
+<rect width="48" height="10" y="1986" x="150" fill="#2dbc94" />
+<text y="2009" x="3">Combination 262</text><rect width="64.66666666666667" height="10" y="2012" x="0" fill="#e62e73" />
+<rect width="64.66666666666667" height="10" y="2012" x="66.66666666666667" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="2012" x="133.33333333333334" fill="#328e13" />
+<text y="2035" x="3">Combination 270</text><rect width="48" height="10" y="2038" x="0" fill="#e62e73" />
+<rect width="48" height="10" y="2038" x="50" fill="#f5f5b8" />
+<rect width="48" height="10" y="2038" x="100" fill="#58771e" />
+<rect width="48" height="10" y="2038" x="150" fill="#328e13" />
+<text y="2061" x="3">Combination 280</text><rect width="48" height="10" y="2064" x="0" fill="#e62e73" />
+<rect width="48" height="10" y="2064" x="50" fill="#405416" />
+<rect width="48" height="10" y="2064" x="100" fill="#cc85d1" />
+<rect width="48" height="10" y="2064" x="150" fill="#6b2e63" />
+<text y="2087" x="3">Combination 282</text><rect width="48" height="10" y="2090" x="0" fill="#e62e73" />
+<rect width="48" height="10" y="2090" x="50" fill="#c2975a" />
+<rect width="48" height="10" y="2090" x="100" fill="#94ff94" />
+<rect width="48" height="10" y="2090" x="150" fill="#b875eb" />
+<text y="2113" x="3">Combination 325</text><rect width="48" height="10" y="2116" x="0" fill="#e62e73" />
+<rect width="48" height="10" y="2116" x="50" fill="#faed8f" />
+<rect width="48" height="10" y="2116" x="100" fill="#e0b81f" />
+<rect width="48" height="10" y="2116" x="150" fill="#0f261f" />
+<text y="2139" x="3">Combination 3</text><rect width="98" height="10" y="2142" x="0" fill="#b85e00" />
+<rect width="98" height="10" y="2142" x="100" fill="#fff59e" />
+<text y="2165" x="3">Combination 13</text><rect width="98" height="10" y="2168" x="0" fill="#b85e00" />
+<rect width="98" height="10" y="2168" x="100" fill="#7e3075" />
+<text y="2191" x="3">Combination 33</text><rect width="98" height="10" y="2194" x="0" fill="#b85e00" />
+<rect width="98" height="10" y="2194" x="100" fill="#1b3644" />
+<text y="2217" x="3">Combination 70</text><rect width="98" height="10" y="2220" x="0" fill="#b85e00" />
+<rect width="98" height="10" y="2220" x="100" fill="#405416" />
+<text y="2243" x="3">Combination 86</text><rect width="98" height="10" y="2246" x="0" fill="#b85e00" />
+<rect width="98" height="10" y="2246" x="100" fill="#33ff7d" />
+<text y="2269" x="3">Combination 130</text><rect width="64.66666666666667" height="10" y="2272" x="0" fill="#b85e00" />
+<rect width="64.66666666666667" height="10" y="2272" x="66.66666666666667" fill="#a10b2b" />
+<rect width="64.66666666666667" height="10" y="2272" x="133.33333333333334" fill="#2619d1" />
+<text y="2295" x="3">Combination 131</text><rect width="64.66666666666667" height="10" y="2298" x="0" fill="#b85e00" />
+<rect width="64.66666666666667" height="10" y="2298" x="66.66666666666667" fill="#de4500" />
+<rect width="64.66666666666667" height="10" y="2298" x="133.33333333333334" fill="#00cf91" />
+<text y="2321" x="3">Combination 182</text><rect width="64.66666666666667" height="10" y="2324" x="0" fill="#b85e00" />
+<rect width="64.66666666666667" height="10" y="2324" x="66.66666666666667" fill="#362304" />
+<rect width="64.66666666666667" height="10" y="2324" x="133.33333333333334" fill="#000831" />
+<text y="2347" x="3">Combination 243</text><rect width="48" height="10" y="2350" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2350" x="50" fill="#ebd999" />
+<rect width="48" height="10" y="2350" x="100" fill="#58771e" />
+<rect width="48" height="10" y="2350" x="150" fill="#1b3644" />
+<text y="2373" x="3">Combination 247</text><rect width="48" height="10" y="2376" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2376" x="50" fill="#ffe600" />
+<rect width="48" height="10" y="2376" x="100" fill="#00d973" />
+<rect width="48" height="10" y="2376" x="150" fill="#0024cc" />
+<text y="2399" x="3">Combination 255</text><rect width="48" height="10" y="2402" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2402" x="50" fill="#c4bf33" />
+<rect width="48" height="10" y="2402" x="100" fill="#80ffcc" />
+<rect width="48" height="10" y="2402" x="150" fill="#000000" />
+<text y="2425" x="3">Combination 269</text><rect width="48" height="10" y="2428" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2428" x="50" fill="#730f1f" />
+<rect width="48" height="10" y="2428" x="100" fill="#9c52f2" />
+<rect width="48" height="10" y="2428" x="150" fill="#000000" />
+<text y="2451" x="3">Combination 279</text><rect width="48" height="10" y="2454" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2454" x="50" fill="#f59994" />
+<rect width="48" height="10" y="2454" x="100" fill="#c0b490" />
+<rect width="48" height="10" y="2454" x="150" fill="#0d2b52" />
+<text y="2477" x="3">Combination 293</text><rect width="48" height="10" y="2480" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2480" x="50" fill="#b5ffc2" />
+<rect width="48" height="10" y="2480" x="100" fill="#65a98f" />
+<rect width="48" height="10" y="2480" x="150" fill="#40c945" />
+<text y="2503" x="3">Combination 298</text><rect width="48" height="10" y="2506" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2506" x="50" fill="#f2ff26" />
+<rect width="48" height="10" y="2506" x="100" fill="#ff3319" />
+<rect width="48" height="10" y="2506" x="150" fill="#000000" />
+<text y="2529" x="3">Combination 319</text><rect width="48" height="10" y="2532" x="0" fill="#b85e00" />
+<rect width="48" height="10" y="2532" x="50" fill="#ffe600" />
+<rect width="48" height="10" y="2532" x="100" fill="#ff8c00" />
+<rect width="48" height="10" y="2532" x="150" fill="#328e13" />
+<text y="2555" x="3">Combination 40</text><rect width="98" height="10" y="2558" x="0" fill="#c74300" />
+<rect width="98" height="10" y="2558" x="100" fill="#a6d40d" />
+<text y="2581" x="3">Combination 85</text><rect width="98" height="10" y="2584" x="0" fill="#c74300" />
+<rect width="98" height="10" y="2584" x="100" fill="#008aa1" />
+<text y="2607" x="3">Combination 155</text><rect width="64.66666666666667" height="10" y="2610" x="0" fill="#fa2b00" />
+<rect width="64.66666666666667" height="10" y="2610" x="66.66666666666667" fill="#00d973" />
+<rect width="64.66666666666667" height="10" y="2610" x="133.33333333333334" fill="#000831" />
+<text y="2633" x="3">Combination 194</text><rect width="64.66666666666667" height="10" y="2636" x="0" fill="#fa2b00" />
+<rect width="64.66666666666667" height="10" y="2636" x="66.66666666666667" fill="#ffcfc4" />
+<rect width="64.66666666666667" height="10" y="2636" x="133.33333333333334" fill="#4f8fe6" />
+<text y="2659" x="3">Combination 216</text><rect width="64.66666666666667" height="10" y="2662" x="0" fill="#fa2b00" />
+<rect width="64.66666666666667" height="10" y="2662" x="66.66666666666667" fill="#40c945" />
+<rect width="64.66666666666667" height="10" y="2662" x="133.33333333333334" fill="#000000" />
+<text y="2685" x="3">Combination 219</text><rect width="98" height="10" y="2688" x="0" fill="#fa2b00" />
+<rect width="98" height="10" y="2688" x="100" fill="#00592e" />
+<text y="2711" x="3">Combination 257</text><rect width="48" height="10" y="2714" x="0" fill="#f20000" />
+<rect width="48" height="10" y="2714" x="50" fill="#ffab00" />
+<rect width="48" height="10" y="2714" x="100" fill="#0d75ff" />
+<rect width="48" height="10" y="2714" x="150" fill="#9c52f2" />
+<text y="2737" x="3">Combination 266</text><rect width="48" height="10" y="2740" x="0" fill="#f20000" />
+<rect width="48" height="10" y="2740" x="50" fill="#ebd999" />
+<rect width="48" height="10" y="2740" x="100" fill="#85b857" />
+<rect width="48" height="10" y="2740" x="150" fill="#00d973" />
+<text y="2763" x="3">Combination 301</text><rect width="48" height="10" y="2766" x="0" fill="#f20000" />
+<rect width="48" height="10" y="2766" x="50" fill="#ebd999" />
+<rect width="48" height="10" y="2766" x="100" fill="#85b857" />
+<rect width="48" height="10" y="2766" x="150" fill="#9c52f2" />
+<text y="2789" x="3">Combination 322</text><rect width="48" height="10" y="2792" x="0" fill="#f20000" />
+<rect width="48" height="10" y="2792" x="50" fill="#a32100" />
+<rect width="48" height="10" y="2792" x="100" fill="#bf36e0" />
+<rect width="48" height="10" y="2792" x="150" fill="#4733ff" />
+<text y="2815" x="3">Combination 31</text><rect width="98" height="10" y="2818" x="0" fill="#e81900" />
+<rect width="98" height="10" y="2818" x="100" fill="#fff59e" />
+<text y="2841" x="3">Combination 164</text><rect width="64.66666666666667" height="10" y="2844" x="0" fill="#e81900" />
+<rect width="64.66666666666667" height="10" y="2844" x="66.66666666666667" fill="#ffab00" />
+<rect width="64.66666666666667" height="10" y="2844" x="133.33333333333334" fill="#2619d1" />
+<text y="2867" x="3">Combination 179</text><rect width="64.66666666666667" height="10" y="2870" x="0" fill="#e81900" />
+<rect width="64.66666666666667" height="10" y="2870" x="66.66666666666667" fill="#fa9442" />
+<rect width="64.66666666666667" height="10" y="2870" x="133.33333333333334" fill="#0024cc" />
+<text y="2893" x="3">Combination 241</text><rect width="48" height="10" y="2896" x="0" fill="#e81900" />
+<rect width="48" height="10" y="2896" x="50" fill="#fff59e" />
+<rect width="48" height="10" y="2896" x="100" fill="#c3a55c" />
+<rect width="48" height="10" y="2896" x="150" fill="#417777" />
+<text y="2919" x="3">Combination 25</text><rect width="98" height="10" y="2922" x="0" fill="#c9303e" />
+<rect width="98" height="10" y="2922" x="100" fill="#bfffe6" />
+<text y="2945" x="3">Combination 47</text><rect width="98" height="10" y="2948" x="0" fill="#c9303e" />
+<rect width="98" height="10" y="2948" x="100" fill="#bfabcc" />
+<text y="2971" x="3">Combination 137</text><rect width="64.66666666666667" height="10" y="2974" x="0" fill="#c9303e" />
+<rect width="64.66666666666667" height="10" y="2974" x="66.66666666666667" fill="#ffbf6e" />
+<rect width="64.66666666666667" height="10" y="2974" x="133.33333333333334" fill="#56aa69" />
+<text y="2997" x="3">Combination 152</text><rect width="64.66666666666667" height="10" y="3000" x="0" fill="#c9303e" />
+<rect width="64.66666666666667" height="10" y="3000" x="66.66666666666667" fill="#681916" />
+<rect width="64.66666666666667" height="10" y="3000" x="133.33333333333334" fill="#a6e6db" />
+<text y="3023" x="3">Combination 275</text><rect width="48" height="10" y="3026" x="0" fill="#c9303e" />
+<rect width="48" height="10" y="3026" x="50" fill="#c0b490" />
+<rect width="48" height="10" y="3026" x="100" fill="#651300" />
+<rect width="48" height="10" y="3026" x="150" fill="#6b2e63" />
+<text y="3049" x="3">Combination 198</text><rect width="64.66666666666667" height="10" y="3052" x="0" fill="#a93400" />
+<rect width="64.66666666666667" height="10" y="3052" x="66.66666666666667" fill="#ffe600" />
+<rect width="64.66666666666667" height="10" y="3052" x="133.33333333333334" fill="#40c945" />
+<text y="3075" x="3">Combination 263</text><rect width="48" height="10" y="3078" x="0" fill="#a93400" />
+<rect width="48" height="10" y="3078" x="50" fill="#f2ad78" />
+<rect width="48" height="10" y="3078" x="100" fill="#b5ffc2" />
+<rect width="48" height="10" y="3078" x="150" fill="#1b3644" />
+<text y="3101" x="3">Combination 286</text><rect width="48" height="10" y="3104" x="0" fill="#a93400" />
+<rect width="48" height="10" y="3104" x="50" fill="#ffab00" />
+<rect width="48" height="10" y="3104" x="100" fill="#00cf91" />
+<rect width="48" height="10" y="3104" x="150" fill="#202d85" />
+<text y="3127" x="3">Combination 297</text><rect width="48" height="10" y="3130" x="0" fill="#a93400" />
+<rect width="48" height="10" y="3130" x="50" fill="#ff8c00" />
+<rect width="48" height="10" y="3130" x="100" fill="#58771e" />
+<rect width="48" height="10" y="3130" x="150" fill="#202d85" />
+<text y="3153" x="3">Combination 312</text><rect width="48" height="10" y="3156" x="0" fill="#a93400" />
+<rect width="48" height="10" y="3156" x="50" fill="#ff8c00" />
+<rect width="48" height="10" y="3156" x="100" fill="#65a98f" />
+<rect width="48" height="10" y="3156" x="150" fill="#0057ba" />
+<text y="3179" x="3">Combination 333</text><rect width="48" height="10" y="3182" x="0" fill="#a93400" />
+<rect width="48" height="10" y="3182" x="50" fill="#f2ff26" />
+<rect width="48" height="10" y="3182" x="100" fill="#94ff94" />
+<rect width="48" height="10" y="3182" x="150" fill="#0d75ff" />
+<text y="3205" x="3">Combination 343</text><rect width="48" height="10" y="3208" x="0" fill="#a93400" />
+<rect width="48" height="10" y="3208" x="50" fill="#ebd999" />
+<rect width="48" height="10" y="3208" x="100" fill="#505423" />
+<rect width="48" height="10" y="3208" x="150" fill="#003e83" />
+<text y="3231" x="3">Combination 199</text><rect width="64.66666666666667" height="10" y="3234" x="0" fill="#a7374b" />
+<rect width="64.66666666666667" height="10" y="3234" x="66.66666666666667" fill="#706934" />
+<rect width="64.66666666666667" height="10" y="3234" x="133.33333333333334" fill="#0024cc" />
+<text y="3257" x="3">Combination 283</text><rect width="64.66666666666667" height="10" y="3260" x="0" fill="#a7374b" />
+<rect width="64.66666666666667" height="10" y="3260" x="66.66666666666667" fill="#730f1f" />
+<rect width="64.66666666666667" height="10" y="3260" x="133.33333333333334" fill="#6bffb3" />
+<text y="3283" x="3">Combination 136</text><rect width="64.66666666666667" height="10" y="3286" x="0" fill="#d50c42" />
+<rect width="64.66666666666667" height="10" y="3286" x="66.66666666666667" fill="#19cc33" />
+<rect width="64.66666666666667" height="10" y="3286" x="133.33333333333334" fill="#3400a3" />
+<text y="3309" x="3">Combination 39</text><rect width="98" height="10" y="3312" x="0" fill="#d60036" />
+<rect width="98" height="10" y="3312" x="100" fill="#0057ba" />
+<text y="3335" x="3">Combination 117</text><rect width="98" height="10" y="3338" x="0" fill="#d60036" />
+<rect width="98" height="10" y="3338" x="100" fill="#000000" />
+<text y="3361" x="3">Combination 122</text><rect width="64.66666666666667" height="10" y="3364" x="0" fill="#d60036" />
+<rect width="64.66666666666667" height="10" y="3364" x="66.66666666666667" fill="#ffb852" />
+<rect width="64.66666666666667" height="10" y="3364" x="133.33333333333334" fill="#00d973" />
+<text y="3387" x="3">Combination 154</text><rect width="64.66666666666667" height="10" y="3390" x="0" fill="#d60036" />
+<rect width="64.66666666666667" height="10" y="3390" x="66.66666666666667" fill="#ffff00" />
+<rect width="64.66666666666667" height="10" y="3390" x="133.33333333333334" fill="#0d75ff" />
+<text y="3413" x="3">Combination 225</text><rect width="64.66666666666667" height="10" y="3416" x="0" fill="#d60036" />
+<rect width="64.66666666666667" height="10" y="3416" x="66.66666666666667" fill="#00592e" />
+<rect width="64.66666666666667" height="10" y="3416" x="133.33333333333334" fill="#53225c" />
+<text y="3439" x="3">Combination 232</text><rect width="64.66666666666667" height="10" y="3442" x="0" fill="#d60036" />
+<rect width="64.66666666666667" height="10" y="3442" x="66.66666666666667" fill="#f2ad78" />
+<rect width="64.66666666666667" height="10" y="3442" x="133.33333333333334" fill="#000831" />
+<text y="3465" x="3">Combination 307</text><rect width="48" height="10" y="3468" x="0" fill="#d60036" />
+<rect width="48" height="10" y="3468" x="50" fill="#b8b8ff" />
+<rect width="48" height="10" y="3468" x="100" fill="#9c52f2" />
+<rect width="48" height="10" y="3468" x="150" fill="#340059" />
+<text y="3491" x="3">Combination 313</text><rect width="48" height="10" y="3494" x="0" fill="#d60036" />
+<rect width="48" height="10" y="3494" x="50" fill="#ffff00" />
+<rect width="48" height="10" y="3494" x="100" fill="#1b8e13" />
+<rect width="48" height="10" y="3494" x="150" fill="#000000" />
+<text y="3517" x="3">Combination 299</text><rect width="48" height="10" y="3520" x="0" fill="#cc1a97" />
+<rect width="48" height="10" y="3520" x="50" fill="#f59994" />
+<rect width="48" height="10" y="3520" x="100" fill="#6ea900" />
+<rect width="48" height="10" y="3520" x="150" fill="#008aa1" />
+<text y="3543" x="3">Combination 331</text><rect width="48" height="10" y="3546" x="0" fill="#cc1a97" />
+<rect width="48" height="10" y="3546" x="50" fill="#06004f" />
+<rect width="48" height="10" y="3546" x="100" fill="#9161f2" />
+<rect width="48" height="10" y="3546" x="150" fill="#2619d1" />
+<text y="3569" x="3">Combination 48</text><rect width="98" height="10" y="3572" x="0" fill="#b319ab" />
+<rect width="98" height="10" y="3572" x="100" fill="#0057ba" />
+<text y="3595" x="3">Combination 144</text><rect width="64.66666666666667" height="10" y="3598" x="0" fill="#b319ab" />
+<rect width="64.66666666666667" height="10" y="3598" x="66.66666666666667" fill="#ff5200" />
+<rect width="64.66666666666667" height="10" y="3598" x="133.33333333333334" fill="#000000" />
+<text y="3621" x="3">Combination 170</text><rect width="64.66666666666667" height="10" y="3624" x="0" fill="#b319ab" />
+<rect width="64.66666666666667" height="10" y="3624" x="66.66666666666667" fill="#ffab00" />
+<rect width="64.66666666666667" height="10" y="3624" x="133.33333333333334" fill="#3400a3" />
+<text y="3647" x="3">Combination 204</text><rect width="64.66666666666667" height="10" y="3650" x="0" fill="#b319ab" />
+<rect width="64.66666666666667" height="10" y="3650" x="66.66666666666667" fill="#c2612c" />
+<rect width="64.66666666666667" height="10" y="3650" x="133.33333333333334" fill="#a6e6db" />
+<text y="3673" x="3">Combination 346</text><rect width="48" height="10" y="3676" x="0" fill="#b319ab" />
+<rect width="48" height="10" y="3676" x="50" fill="#b5ffc2" />
+<rect width="48" height="10" y="3676" x="100" fill="#bdf226" />
+<rect width="48" height="10" y="3676" x="150" fill="#5c8a73" />
+<text y="3699" x="3">Combination 220</text><rect width="64.66666666666667" height="10" y="3702" x="0" fill="#b90078" />
+<rect width="64.66666666666667" height="10" y="3702" x="66.66666666666667" fill="#d99e73" />
+<rect width="64.66666666666667" height="10" y="3702" x="133.33333333333334" fill="#9c52f2" />
+<text y="3725" x="3">Combination 271</text><rect width="48" height="10" y="3728" x="0" fill="#b90078" />
+<rect width="48" height="10" y="3728" x="50" fill="#94ff94" />
+<rect width="48" height="10" y="3728" x="100" fill="#2dbc94" />
+<rect width="48" height="10" y="3728" x="150" fill="#0f261f" />
+<text y="3751" x="3">Combination 142</text><rect width="64.66666666666667" height="10" y="3754" x="0" fill="#9e194d" />
+<rect width="64.66666666666667" height="10" y="3754" x="66.66666666666667" fill="#baa600" />
+<rect width="64.66666666666667" height="10" y="3754" x="133.33333333333334" fill="#96bfe6" />
+<text y="3777" x="3">Combination 37</text><rect width="98" height="10" y="3780" x="0" fill="#a32100" />
+<rect width="98" height="10" y="3780" x="100" fill="#3400a3" />
+<text y="3803" x="3">Combination 328</text><rect width="48" height="10" y="3806" x="0" fill="#a32100" />
+<rect width="48" height="10" y="3806" x="50" fill="#ff7340" />
+<rect width="48" height="10" y="3806" x="100" fill="#362304" />
+<rect width="48" height="10" y="3806" x="150" fill="#23c17c" />
+<text y="3829" x="3">Combination 51</text><rect width="98" height="10" y="3832" x="0" fill="#a10b2b" />
+<rect width="98" height="10" y="3832" x="100" fill="#0d75ff" />
+<text y="3855" x="3">Combination 104</text><rect width="98" height="10" y="3858" x="0" fill="#a10b2b" />
+<rect width="98" height="10" y="3858" x="100" fill="#f5f5b8" />
+<text y="3881" x="3">Combination 181</text><rect width="64.66666666666667" height="10" y="3884" x="0" fill="#a10b2b" />
+<rect width="64.66666666666667" height="10" y="3884" x="66.66666666666667" fill="#2619d1" />
+<rect width="64.66666666666667" height="10" y="3884" x="133.33333333333334" fill="#340059" />
+<text y="3907" x="3">Combination 200</text><rect width="98" height="10" y="3910" x="0" fill="#a10b2b" />
+<rect width="98" height="10" y="3910" x="100" fill="#bcd382" />
+<text y="3933" x="3">Combination 221</text><rect width="64.66666666666667" height="10" y="3936" x="0" fill="#a10b2b" />
+<rect width="64.66666666666667" height="10" y="3936" x="66.66666666666667" fill="#b5d1cc" />
+<rect width="64.66666666666667" height="10" y="3936" x="133.33333333333334" fill="#000000" />
+<text y="3959" x="3">Combination 228</text><rect width="64.66666666666667" height="10" y="3962" x="0" fill="#a10b2b" />
+<rect width="64.66666666666667" height="10" y="3962" x="66.66666666666667" fill="#fff59e" />
+<rect width="64.66666666666667" height="10" y="3962" x="133.33333333333334" fill="#b5d1cc" />
+<text y="3985" x="3">Combination 233</text><rect width="64.66666666666667" height="10" y="3988" x="0" fill="#a10b2b" />
+<rect width="64.66666666666667" height="10" y="3988" x="66.66666666666667" fill="#888d2a" />
+<rect width="64.66666666666667" height="10" y="3988" x="133.33333333333334" fill="#202d85" />
+<text y="4011" x="3">Combination 237</text><rect width="64.66666666666667" height="10" y="4014" x="0" fill="#a10b2b" />
+<rect width="64.66666666666667" height="10" y="4014" x="66.66666666666667" fill="#651300" />
+<rect width="64.66666666666667" height="10" y="4014" x="133.33333333333334" fill="#96bfe6" />
+<text y="4037" x="3">Combination 245</text><rect width="48" height="10" y="4040" x="0" fill="#a10b2b" />
+<rect width="48" height="10" y="4040" x="50" fill="#6ea900" />
+<rect width="48" height="10" y="4040" x="100" fill="#0d2b52" />
+<rect width="48" height="10" y="4040" x="150" fill="#1b3644" />
+<text y="4063" x="3">Combination 338</text><rect width="48" height="10" y="4066" x="0" fill="#a10b2b" />
+<rect width="48" height="10" y="4066" x="50" fill="#ffab00" />
+<rect width="48" height="10" y="4066" x="100" fill="#00592e" />
+<rect width="48" height="10" y="4066" x="150" fill="#bfabcc" />
+<text y="4089" x="3">Combination 30</text><rect width="98" height="10" y="4092" x="0" fill="#a90636" />
+<rect width="98" height="10" y="4092" x="100" fill="#9fc2b2" />
+<text y="4115" x="3">Combination 71</text><rect width="98" height="10" y="4118" x="0" fill="#a90636" />
+<rect width="98" height="10" y="4118" x="100" fill="#d99e73" />
+<text y="4141" x="3">Combination 212</text><rect width="64.66666666666667" height="10" y="4144" x="0" fill="#a90636" />
+<rect width="64.66666666666667" height="10" y="4144" x="66.66666666666667" fill="#8c6510" />
+<rect width="64.66666666666667" height="10" y="4144" x="133.33333333333334" fill="#96bfe6" />
+<text y="4167" x="3">Combination 311</text><rect width="48" height="10" y="4170" x="0" fill="#a90636" />
+<rect width="48" height="10" y="4170" x="50" fill="#ffb852" />
+<rect width="48" height="10" y="4170" x="100" fill="#b3d9a3" />
+<rect width="48" height="10" y="4170" x="150" fill="#bdf226" />
+<text y="4193" x="3">Combination 324</text><rect width="48" height="10" y="4196" x="0" fill="#a90636" />
+<rect width="48" height="10" y="4196" x="50" fill="#4f8fe6" />
+<rect width="48" height="10" y="4196" x="100" fill="#9c52f2" />
+<rect width="48" height="10" y="4196" x="150" fill="#b5d1cc" />
+<text y="4219" x="3">Combination 251</text><rect width="48" height="10" y="4222" x="0" fill="#a10045" />
+<rect width="48" height="10" y="4222" x="50" fill="#ffff00" />
+<rect width="48" height="10" y="4222" x="100" fill="#1b8e13" />
+<rect width="48" height="10" y="4222" x="150" fill="#1b3644" />
+<text y="4245" x="3">Combination 261</text><rect width="48" height="10" y="4248" x="0" fill="#a10045" />
+<rect width="48" height="10" y="4248" x="50" fill="#fff59e" />
+<rect width="48" height="10" y="4248" x="100" fill="#80ffcc" />
+<rect width="48" height="10" y="4248" x="150" fill="#9cb29e" />
+<text y="4271" x="3">Combination 110</text><rect width="98" height="10" y="4274" x="0" fill="#6c2b11" />
+<rect width="98" height="10" y="4274" x="100" fill="#362304" />
+<text y="4297" x="3">Combination 121</text><rect width="64.66666666666667" height="10" y="4300" x="0" fill="#6c2b11" />
+<rect width="64.66666666666667" height="10" y="4300" x="66.66666666666667" fill="#d99e73" />
+<rect width="64.66666666666667" height="10" y="4300" x="133.33333333333334" fill="#405416" />
+<text y="4323" x="3">Combination 145</text><rect width="64.66666666666667" height="10" y="4326" x="0" fill="#6c2b11" />
+<rect width="64.66666666666667" height="10" y="4326" x="66.66666666666667" fill="#a6d40d" />
+<rect width="64.66666666666667" height="10" y="4326" x="133.33333333333334" fill="#06004f" />
+<text y="4349" x="3">Combination 161</text><rect width="64.66666666666667" height="10" y="4352" x="0" fill="#6c2b11" />
+<rect width="64.66666666666667" height="10" y="4352" x="66.66666666666667" fill="#f2ad78" />
+<rect width="64.66666666666667" height="10" y="4352" x="133.33333333333334" fill="#0057ba" />
+<text y="4375" x="3">Combination 58</text><rect width="98" height="10" y="4378" x="0" fill="#681916" />
+<rect width="98" height="10" y="4378" x="100" fill="#33ff7d" />
+<text y="4401" x="3">Combination 82</text><rect width="98" height="10" y="4404" x="0" fill="#681916" />
+<rect width="98" height="10" y="4404" x="100" fill="#2d0060" />
+<text y="4427" x="3">Combination 95</text><rect width="98" height="10" y="4430" x="0" fill="#681916" />
+<rect width="98" height="10" y="4430" x="100" fill="#06004f" />
+<text y="4453" x="3">Combination 186</text><rect width="64.66666666666667" height="10" y="4456" x="0" fill="#681916" />
+<rect width="64.66666666666667" height="10" y="4456" x="66.66666666666667" fill="#d99e73" />
+<rect width="64.66666666666667" height="10" y="4456" x="133.33333333333334" fill="#0d75ff" />
+<text y="4479" x="3">Combination 249</text><rect width="48" height="10" y="4482" x="0" fill="#681916" />
+<rect width="48" height="10" y="4482" x="50" fill="#c0b490" />
+<rect width="48" height="10" y="4482" x="100" fill="#d1bd19" />
+<rect width="48" height="10" y="4482" x="150" fill="#417777" />
+<text y="4505" x="3">Combination 304</text><rect width="48" height="10" y="4508" x="0" fill="#681916" />
+<rect width="48" height="10" y="4508" x="50" fill="#ffb852" />
+<rect width="48" height="10" y="4508" x="100" fill="#7e8743" />
+<rect width="48" height="10" y="4508" x="150" fill="#00d973" />
+<text y="4531" x="3">Combination 345</text><rect width="48" height="10" y="4534" x="0" fill="#681916" />
+<rect width="48" height="10" y="4534" x="50" fill="#bfffe6" />
+<rect width="48" height="10" y="4534" x="100" fill="#6bffb3" />
+<rect width="48" height="10" y="4534" x="150" fill="#4733ff" />
+<text y="4557" x="3">Combination 16</text><rect width="98" height="10" y="4560" x="0" fill="#740909" />
+<rect width="98" height="10" y="4560" x="100" fill="#abf5ed" />
+<text y="4583" x="3">Combination 133</text><rect width="98" height="10" y="4586" x="0" fill="#740909" />
+<rect width="98" height="10" y="4586" x="100" fill="#33ff7d" />
+<text y="4609" x="3">Combination 316</text><rect width="48" height="10" y="4612" x="0" fill="#740909" />
+<rect width="48" height="10" y="4612" x="50" fill="#19cc33" />
+<rect width="48" height="10" y="4612" x="100" fill="#2619d1" />
+<rect width="48" height="10" y="4612" x="150" fill="#3400a3" />
+<text y="4635" x="3">Combination 335</text><rect width="48" height="10" y="4638" x="0" fill="#740909" />
+<rect width="48" height="10" y="4638" x="50" fill="#ff8c00" />
+<rect width="48" height="10" y="4638" x="100" fill="#2619d1" />
+<rect width="48" height="10" y="4638" x="150" fill="#1b3644" />
+<text y="4661" x="3">Combination 157</text><rect width="64.66666666666667" height="10" y="4664" x="0" fill="#6f0043" />
+<rect width="64.66666666666667" height="10" y="4664" x="66.66666666666667" fill="#d1bd19" />
+<rect width="64.66666666666667" height="10" y="4664" x="133.33333333333334" fill="#4f8fe6" />
+<text y="4687" x="3">Combination 124</text><rect width="64.66666666666667" height="10" y="4690" x="0" fill="#730f1f" />
+<rect width="64.66666666666667" height="10" y="4690" x="66.66666666666667" fill="#e0b81f" />
+<rect width="64.66666666666667" height="10" y="4690" x="133.33333333333334" fill="#99b333" />
+<text y="4713" x="3">Combination 171</text><rect width="64.66666666666667" height="10" y="4716" x="0" fill="#730f1f" />
+<rect width="64.66666666666667" height="10" y="4716" x="66.66666666666667" fill="#ff8c00" />
+<rect width="64.66666666666667" height="10" y="4716" x="133.33333333333334" fill="#b3e8c2" />
+<text y="4739" x="3">Combination 177</text><rect width="64.66666666666667" height="10" y="4742" x="0" fill="#730f1f" />
+<rect width="64.66666666666667" height="10" y="4742" x="66.66666666666667" fill="#888d2a" />
+<rect width="64.66666666666667" height="10" y="4742" x="133.33333333333334" fill="#b8b8ff" />
+<text y="4765" x="3">Combination 205</text><rect width="64.66666666666667" height="10" y="4768" x="0" fill="#730f1f" />
+<rect width="64.66666666666667" height="10" y="4768" x="66.66666666666667" fill="#f59994" />
+<rect width="64.66666666666667" height="10" y="4768" x="133.33333333333334" fill="#2619d1" />
+<text y="4791" x="3">Combination 217</text><rect width="64.66666666666667" height="10" y="4794" x="0" fill="#730f1f" />
+<rect width="64.66666666666667" height="10" y="4794" x="66.66666666666667" fill="#d99e73" />
+<rect width="64.66666666666667" height="10" y="4794" x="133.33333333333334" fill="#1b8e13" />
+<text y="4817" x="3">Combination 258</text><rect width="48" height="10" y="4820" x="0" fill="#730f1f" />
+<rect width="48" height="10" y="4820" x="50" fill="#f2ad78" />
+<rect width="48" height="10" y="4820" x="100" fill="#718600" />
+<rect width="48" height="10" y="4820" x="150" fill="#008aa1" />
+<text y="4843" x="3">Combination 9</text><rect width="98" height="10" y="4846" x="0" fill="#3d0079" />
+<rect width="98" height="10" y="4846" x="100" fill="#6e66d4" />
+<text y="4869" x="3">Combination 63</text><rect width="98" height="10" y="4872" x="0" fill="#5c2c45" />
+<rect width="98" height="10" y="4872" x="100" fill="#29bdad" />
+<text y="4895" x="3">Combination 91</text><rect width="98" height="10" y="4898" x="0" fill="#5c2c45" />
+<rect width="98" height="10" y="4898" x="100" fill="#c05200" />
+<text y="4921" x="3">Combination 226</text><rect width="64.66666666666667" height="10" y="4924" x="0" fill="#5c2c45" />
+<rect width="64.66666666666667" height="10" y="4924" x="66.66666666666667" fill="#ffb852" />
+<rect width="64.66666666666667" height="10" y="4924" x="133.33333333333334" fill="#2619d1" />
+<text y="4947" x="3">Combination 290</text><rect width="48" height="10" y="4950" x="0" fill="#5c2c45" />
+<rect width="48" height="10" y="4950" x="50" fill="#fff59e" />
+<rect width="48" height="10" y="4950" x="100" fill="#405416" />
+<rect width="48" height="10" y="4950" x="150" fill="#94ff94" />
+<text y="4973" x="3">Combination 337</text><rect width="48" height="10" y="4976" x="0" fill="#5c2c45" />
+<rect width="48" height="10" y="4976" x="50" fill="#cc85d1" />
+<rect width="48" height="10" y="4976" x="100" fill="#531745" />
+<rect width="48" height="10" y="4976" x="150" fill="#000000" />
+<text y="4999" x="3">Combination 52</text><rect width="98" height="10" y="5002" x="0" fill="#f5f5b8" />
+<rect width="98" height="10" y="5002" x="100" fill="#000000" />
+<text y="5025" x="3">Combination 72</text><rect width="98" height="10" y="5028" x="0" fill="#f5f5b8" />
+<rect width="98" height="10" y="5028" x="100" fill="#abf5ed" />
+<text y="5051" x="3">Combination 80</text><rect width="98" height="10" y="5054" x="0" fill="#f5f5b8" />
+<rect width="98" height="10" y="5054" x="100" fill="#9161f2" />
+<text y="5077" x="3">Combination 132</text><rect width="98" height="10" y="5080" x="0" fill="#f5f5b8" />
+<rect width="98" height="10" y="5080" x="100" fill="#fa9442" />
+<text y="5103" x="3">Combination 135</text><rect width="64.66666666666667" height="10" y="5106" x="0" fill="#f5f5b8" />
+<rect width="64.66666666666667" height="10" y="5106" x="66.66666666666667" fill="#328e13" />
+<rect width="64.66666666666667" height="10" y="5106" x="133.33333333333334" fill="#96bfe6" />
+<text y="5129" x="3">Combination 151</text><rect width="64.66666666666667" height="10" y="5132" x="0" fill="#f5f5b8" />
+<rect width="64.66666666666667" height="10" y="5132" x="66.66666666666667" fill="#ff8c00" />
+<rect width="64.66666666666667" height="10" y="5132" x="133.33333333333334" fill="#003e83" />
+<text y="5155" x="3">Combination 208</text><rect width="64.66666666666667" height="10" y="5158" x="0" fill="#f5f5b8" />
+<rect width="64.66666666666667" height="10" y="5158" x="66.66666666666667" fill="#2dbc94" />
+<rect width="64.66666666666667" height="10" y="5158" x="133.33333333333334" fill="#008aa1" />
+<text y="5181" x="3">Combination 294</text><rect width="48" height="10" y="5184" x="0" fill="#f5f5b8" />
+<rect width="48" height="10" y="5184" x="50" fill="#ffb852" />
+<rect width="48" height="10" y="5184" x="100" fill="#328e13" />
+<rect width="48" height="10" y="5184" x="150" fill="#96bfe6" />
+<text y="5207" x="3">Combination 296</text><rect width="48" height="10" y="5210" x="0" fill="#f5f5b8" />
+<rect width="48" height="10" y="5210" x="50" fill="#d99e73" />
+<rect width="48" height="10" y="5210" x="100" fill="#5e4017" />
+<rect width="48" height="10" y="5210" x="150" fill="#1b3644" />
+<text y="5233" x="3">Combination 310</text><rect width="48" height="10" y="5236" x="0" fill="#f5f5b8" />
+<rect width="48" height="10" y="5236" x="50" fill="#f2ad78" />
+<rect width="48" height="10" y="5236" x="100" fill="#718600" />
+<rect width="48" height="10" y="5236" x="150" fill="#172713" />
+<text y="5259" x="3">Combination 326</text><rect width="48" height="10" y="5262" x="0" fill="#f5f5b8" />
+<rect width="48" height="10" y="5262" x="50" fill="#ff3319" />
+<rect width="48" height="10" y="5262" x="100" fill="#a6ff47" />
+<rect width="48" height="10" y="5262" x="150" fill="#7aff00" />
+<text y="5285" x="3">Combination 60</text><rect width="98" height="10" y="5288" x="0" fill="#fff59e" />
+<rect width="98" height="10" y="5288" x="100" fill="#0d2b52" />
+<text y="5311" x="3">Combination 76</text><rect width="98" height="10" y="5314" x="0" fill="#fff59e" />
+<rect width="98" height="10" y="5314" x="100" fill="#9cb29e" />
+<text y="5337" x="3">Combination 99</text><rect width="98" height="10" y="5340" x="0" fill="#fff59e" />
+<rect width="98" height="10" y="5340" x="100" fill="#29bdad" />
+<text y="5363" x="3">Combination 109</text><rect width="98" height="10" y="5366" x="0" fill="#fff59e" />
+<rect width="98" height="10" y="5366" x="100" fill="#324e2a" />
+<text y="5389" x="3">Combination 111</text><rect width="98" height="10" y="5392" x="0" fill="#fff59e" />
+<rect width="98" height="10" y="5392" x="100" fill="#a6ff47" />
+<text y="5415" x="3">Combination 203</text><rect width="64.66666666666667" height="10" y="5418" x="0" fill="#fff59e" />
+<rect width="64.66666666666667" height="10" y="5418" x="66.66666666666667" fill="#f59994" />
+<rect width="64.66666666666667" height="10" y="5418" x="133.33333333333334" fill="#405416" />
+<text y="5441" x="3">Combination 272</text><rect width="48" height="10" y="5444" x="0" fill="#fff59e" />
+<rect width="48" height="10" y="5444" x="50" fill="#ff5200" />
+<rect width="48" height="10" y="5444" x="100" fill="#b5ffc2" />
+<rect width="48" height="10" y="5444" x="150" fill="#96bfe6" />
+<text y="5467" x="3">Combination 281</text><rect width="48" height="10" y="5470" x="0" fill="#fff59e" />
+<rect width="48" height="10" y="5470" x="50" fill="#00d973" />
+<rect width="48" height="10" y="5470" x="100" fill="#94ff94" />
+<rect width="48" height="10" y="5470" x="150" fill="#008aa1" />
+<text y="5493" x="3">Combination 292</text><rect width="48" height="10" y="5496" x="0" fill="#fff59e" />
+<rect width="48" height="10" y="5496" x="50" fill="#f2ad78" />
+<rect width="48" height="10" y="5496" x="100" fill="#c3a55c" />
+<rect width="48" height="10" y="5496" x="150" fill="#c0b490" />
+<text y="5519" x="3">Combination 115</text><rect width="98" height="10" y="5522" x="0" fill="#faed8f" />
+<rect width="98" height="10" y="5522" x="100" fill="#ff3319" />
+<text y="5545" x="3">Combination 303</text><rect width="48" height="10" y="5548" x="0" fill="#faed8f" />
+<rect width="48" height="10" y="5548" x="50" fill="#ff3319" />
+<rect width="48" height="10" y="5548" x="100" fill="#172713" />
+<rect width="48" height="10" y="5548" x="150" fill="#b5d1cc" />
+<text y="5571" x="3">Combination 11</text><rect width="98" height="10" y="5574" x="0" fill="#ebd999" />
+<rect width="98" height="10" y="5574" x="100" fill="#9fc2b2" />
+<text y="5597" x="3">Combination 50</text><rect width="98" height="10" y="5600" x="0" fill="#ebd999" />
+<rect width="98" height="10" y="5600" x="100" fill="#2d0060" />
+<text y="5623" x="3">Combination 94</text><rect width="98" height="10" y="5626" x="0" fill="#ebd999" />
+<rect width="98" height="10" y="5626" x="100" fill="#00592e" />
+<text y="5649" x="3">Combination 102</text><rect width="98" height="10" y="5652" x="0" fill="#ebd999" />
+<rect width="98" height="10" y="5652" x="100" fill="#c05200" />
+<text y="5675" x="3">Combination 126</text><rect width="64.66666666666667" height="10" y="5678" x="0" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="5678" x="66.66666666666667" fill="#e0b81f" />
+<rect width="64.66666666666667" height="10" y="5678" x="133.33333333333334" fill="#0024cc" />
+<text y="5701" x="3">Combination 178</text><rect width="64.66666666666667" height="10" y="5704" x="0" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="5704" x="66.66666666666667" fill="#a6e6db" />
+<rect width="64.66666666666667" height="10" y="5704" x="133.33333333333334" fill="#2dbc94" />
+<text y="5727" x="3">Combination 190</text><rect width="64.66666666666667" height="10" y="5730" x="0" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="5730" x="66.66666666666667" fill="#de4500" />
+<rect width="64.66666666666667" height="10" y="5730" x="133.33333333333334" fill="#000000" />
+<text y="5753" x="3">Combination 209</text><rect width="64.66666666666667" height="10" y="5756" x="0" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="5756" x="66.66666666666667" fill="#ff8c00" />
+<rect width="64.66666666666667" height="10" y="5756" x="133.33333333333334" fill="#96bfe6" />
+<text y="5779" x="3">Combination 214</text><rect width="64.66666666666667" height="10" y="5782" x="0" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="5782" x="66.66666666666667" fill="#9b5348" />
+<rect width="64.66666666666667" height="10" y="5782" x="133.33333333333334" fill="#2619d1" />
+<text y="5805" x="3">Combination 235</text><rect width="64.66666666666667" height="10" y="5808" x="0" fill="#ebd999" />
+<rect width="64.66666666666667" height="10" y="5808" x="66.66666666666667" fill="#ff8c00" />
+<rect width="64.66666666666667" height="10" y="5808" x="133.33333333333334" fill="#bfabcc" />
+<text y="5831" x="3">Combination 45</text><rect width="98" height="10" y="5834" x="0" fill="#ffcfc4" />
+<rect width="98" height="10" y="5834" x="100" fill="#f2ff26" />
+<text y="5857" x="3">Combination 84</text><rect width="98" height="10" y="5860" x="0" fill="#ffcfc4" />
+<rect width="98" height="10" y="5860" x="100" fill="#0f261f" />
+<text y="5883" x="3">Combination 88</text><rect width="98" height="10" y="5886" x="0" fill="#ffcfc4" />
+<rect width="98" height="10" y="5886" x="100" fill="#0d75ff" />
+<text y="5909" x="3">Combination 113</text><rect width="98" height="10" y="5912" x="0" fill="#ffcfc4" />
+<rect width="98" height="10" y="5912" x="100" fill="#362304" />
+<text y="5935" x="3">Combination 150</text><rect width="64.66666666666667" height="10" y="5938" x="0" fill="#ffcfc4" />
+<rect width="64.66666666666667" height="10" y="5938" x="66.66666666666667" fill="#a6d40d" />
+<rect width="64.66666666666667" height="10" y="5938" x="133.33333333333334" fill="#b3e8c2" />
+<text y="5961" x="3">Combination 334</text><rect width="48" height="10" y="5964" x="0" fill="#ffcfc4" />
+<rect width="48" height="10" y="5964" x="50" fill="#718600" />
+<rect width="48" height="10" y="5964" x="100" fill="#a6ff47" />
+<rect width="48" height="10" y="5964" x="150" fill="#008aa1" />
+<text y="5987" x="3">Combination 317</text><rect width="48" height="10" y="5990" x="0" fill="#ffbf99" />
+<rect width="48" height="10" y="5990" x="50" fill="#c0b490" />
+<rect width="48" height="10" y="5990" x="100" fill="#f2ff26" />
+<rect width="48" height="10" y="5990" x="150" fill="#b5ffc2" />
+<text y="6013" x="3">Combination 78</text><rect width="98" height="10" y="6016" x="0" fill="#f2ad78" />
+<rect width="98" height="10" y="6016" x="100" fill="#6bffb3" />
+<text y="6039" x="3">Combination 175</text><rect width="64.66666666666667" height="10" y="6042" x="0" fill="#f2ad78" />
+<rect width="64.66666666666667" height="10" y="6042" x="66.66666666666667" fill="#bcd382" />
+<rect width="64.66666666666667" height="10" y="6042" x="133.33333333333334" fill="#4733ff" />
+<text y="6065" x="3">Combination 305</text><rect width="48" height="10" y="6068" x="0" fill="#f2ad78" />
+<rect width="48" height="10" y="6068" x="50" fill="#ffe600" />
+<rect width="48" height="10" y="6068" x="100" fill="#a6d40d" />
+<rect width="48" height="10" y="6068" x="150" fill="#b5ffc2" />
+<text y="6091" x="3">Combination 23</text><rect width="98" height="10" y="6094" x="0" fill="#ffbf6e" />
+<rect width="98" height="10" y="6094" x="100" fill="#9161f2" />
+<text y="6117" x="3">Combination 127</text><rect width="64.66666666666667" height="10" y="6120" x="0" fill="#ffbf6e" />
+<rect width="64.66666666666667" height="10" y="6120" x="66.66666666666667" fill="#56aa69" />
+<rect width="64.66666666666667" height="10" y="6120" x="133.33333333333334" fill="#4d52de" />
+<text y="6143" x="3">Combination 180</text><rect width="64.66666666666667" height="10" y="6146" x="0" fill="#ffbf6e" />
+<rect width="64.66666666666667" height="10" y="6146" x="66.66666666666667" fill="#9161f2" />
+<rect width="64.66666666666667" height="10" y="6146" x="133.33333333333334" fill="#b5d1cc" />
+<text y="6169" x="3">Combination 210</text><rect width="64.66666666666667" height="10" y="6172" x="0" fill="#ffbf6e" />
+<rect width="64.66666666666667" height="10" y="6172" x="66.66666666666667" fill="#f2ff26" />
+<rect width="64.66666666666667" height="10" y="6172" x="133.33333333333334" fill="#405416" />
+<text y="6195" x="3">Combination 234</text><rect width="64.66666666666667" height="10" y="6198" x="0" fill="#ffbf6e" />
+<rect width="64.66666666666667" height="10" y="6198" x="66.66666666666667" fill="#5e4017" />
+<rect width="64.66666666666667" height="10" y="6198" x="133.33333333333334" fill="#abf5ed" />
+<text y="6221" x="3">Combination 323</text><rect width="48" height="10" y="6224" x="0" fill="#ffbf6e" />
+<rect width="48" height="10" y="6224" x="50" fill="#a6d40d" />
+<rect width="48" height="10" y="6224" x="100" fill="#651300" />
+<rect width="48" height="10" y="6224" x="150" fill="#000000" />
+<text y="6247" x="3">Combination 344</text><rect width="48" height="10" y="6250" x="0" fill="#ffbf6e" />
+<rect width="48" height="10" y="6250" x="50" fill="#0024cc" />
+<rect width="48" height="10" y="6250" x="100" fill="#9c52f2" />
+<rect width="48" height="10" y="6250" x="150" fill="#000000" />
+<text y="6273" x="3">Combination 192</text><rect width="64.66666666666667" height="10" y="6276" x="0" fill="#ffb852" />
+<rect width="64.66666666666667" height="10" y="6276" x="66.66666666666667" fill="#362304" />
+<rect width="64.66666666666667" height="10" y="6276" x="133.33333333333334" fill="#5c7287" />
+<text y="6299" x="3">Combination 215</text><rect width="64.66666666666667" height="10" y="6302" x="0" fill="#ffb852" />
+<rect width="64.66666666666667" height="10" y="6302" x="66.66666666666667" fill="#0d75ff" />
+<rect width="64.66666666666667" height="10" y="6302" x="133.33333333333334" fill="#bf36e0" />
+<text y="6325" x="3">Combination 267</text><rect width="48" height="10" y="6328" x="0" fill="#ffb852" />
+<rect width="48" height="10" y="6328" x="50" fill="#ff8c00" />
+<rect width="48" height="10" y="6328" x="100" fill="#00d973" />
+<rect width="48" height="10" y="6328" x="150" fill="#0d75ff" />
+<text y="6351" x="3">Combination 278</text><rect width="48" height="10" y="6354" x="0" fill="#ffb852" />
+<rect width="48" height="10" y="6354" x="50" fill="#d1bd19" />
+<rect width="48" height="10" y="6354" x="100" fill="#328e13" />
+<rect width="48" height="10" y="6354" x="150" fill="#00592e" />
+<text y="6377" x="3">Combination 295</text><rect width="48" height="10" y="6380" x="0" fill="#ffb852" />
+<rect width="48" height="10" y="6380" x="50" fill="#ffff00" />
+<rect width="48" height="10" y="6380" x="100" fill="#0d75ff" />
+<rect width="48" height="10" y="6380" x="150" fill="#06004f" />
+<text y="6403" x="3">Combination 302</text><rect width="48" height="10" y="6406" x="0" fill="#ffb852" />
+<rect width="48" height="10" y="6406" x="50" fill="#c0b490" />
+<rect width="48" height="10" y="6406" x="100" fill="#bfffe6" />
+<rect width="48" height="10" y="6406" x="150" fill="#008aa1" />
+<text y="6429" x="3">Combination 329</text><rect width="48" height="10" y="6432" x="0" fill="#ffb852" />
+<rect width="48" height="10" y="6432" x="50" fill="#bfabcc" />
+<rect width="48" height="10" y="6432" x="100" fill="#340059" />
+<rect width="48" height="10" y="6432" x="150" fill="#1b3644" />
+<text y="6455" x="3">Combination 26</text><rect width="98" height="10" y="6458" x="0" fill="#fa9442" />
+<rect width="98" height="10" y="6458" x="100" fill="#5e4017" />
+<text y="6481" x="3">Combination 81</text><rect width="98" height="10" y="6484" x="0" fill="#fa9442" />
+<rect width="98" height="10" y="6484" x="100" fill="#9cb29e" />
+<text y="6507" x="3">Combination 138</text><rect width="64.66666666666667" height="10" y="6510" x="0" fill="#fa9442" />
+<rect width="64.66666666666667" height="10" y="6510" x="66.66666666666667" fill="#f2ff26" />
+<rect width="64.66666666666667" height="10" y="6510" x="133.33333333333334" fill="#6bffb3" />
+<text y="6533" x="3">Combination 140</text><rect width="64.66666666666667" height="10" y="6536" x="0" fill="#fa9442" />
+<rect width="64.66666666666667" height="10" y="6536" x="66.66666666666667" fill="#008aa1" />
+<rect width="64.66666666666667" height="10" y="6536" x="133.33333333333334" fill="#1b3644" />
+<text y="6559" x="3">Combination 229</text><rect width="64.66666666666667" height="10" y="6562" x="0" fill="#fa9442" />
+<rect width="64.66666666666667" height="10" y="6562" x="66.66666666666667" fill="#172713" />
+<rect width="64.66666666666667" height="10" y="6562" x="133.33333333333334" fill="#b5d1cc" />
+<text y="6585" x="3">Combination 309</text><rect width="48" height="10" y="6588" x="0" fill="#fa9442" />
+<rect width="48" height="10" y="6588" x="50" fill="#ff7340" />
+<rect width="48" height="10" y="6588" x="100" fill="#202d85" />
+<rect width="48" height="10" y="6588" x="150" fill="#003e83" />
+<text y="6611" x="3">Combination 213</text><rect width="64.66666666666667" height="10" y="6614" x="0" fill="#f59994" />
+<rect width="64.66666666666667" height="10" y="6614" x="66.66666666666667" fill="#ffe600" />
+<rect width="64.66666666666667" height="10" y="6614" x="133.33333333333334" fill="#abf5ed" />
+<text y="6637" x="3">Combination 256</text><rect width="48" height="10" y="6640" x="0" fill="#f59994" />
+<rect width="48" height="10" y="6640" x="50" fill="#ff5200" />
+<rect width="48" height="10" y="6640" x="100" fill="#19cc33" />
+<rect width="48" height="10" y="6640" x="150" fill="#000000" />
+<text y="6663" x="3">Combination 32</text><rect width="98" height="10" y="6666" x="0" fill="#d99e73" />
+<rect width="98" height="10" y="6666" x="100" fill="#7aff00" />
+<text y="6689" x="3">Combination 238</text><rect width="64.66666666666667" height="10" y="6692" x="0" fill="#d99e73" />
+<rect width="64.66666666666667" height="10" y="6692" x="66.66666666666667" fill="#340059" />
+<rect width="64.66666666666667" height="10" y="6692" x="133.33333333333334" fill="#9cb29e" />
+<text y="6715" x="3">Combination 339</text><rect width="48" height="10" y="6718" x="0" fill="#d99e73" />
+<rect width="48" height="10" y="6718" x="50" fill="#de4500" />
+<rect width="48" height="10" y="6718" x="100" fill="#a6e6db" />
+<rect width="48" height="10" y="6718" x="150" fill="#202d85" />
+<text y="6741" x="3">Combination 4</text><rect width="98" height="10" y="6744" x="0" fill="#c3a55c" />
+<rect width="98" height="10" y="6744" x="100" fill="#3400a3" />
+<text y="6767" x="3">Combination 12</text><rect width="98" height="10" y="6770" x="0" fill="#c3a55c" />
+<rect width="98" height="10" y="6770" x="100" fill="#2dbc94" />
+<text y="6793" x="3">Combination 83</text><rect width="98" height="10" y="6796" x="0" fill="#bcd382" />
+<rect width="98" height="10" y="6796" x="100" fill="#202d85" />
+<text y="6819" x="3">Combination 330</text><rect width="48" height="10" y="6822" x="0" fill="#bcd382" />
+<rect width="48" height="10" y="6822" x="50" fill="#bfffe6" />
+<rect width="48" height="10" y="6822" x="100" fill="#96bfe6" />
+<rect width="48" height="10" y="6822" x="150" fill="#2dbc94" />
+<text y="6845" x="3">Combination 348</text><rect width="48" height="10" y="6848" x="0" fill="#bcd382" />
+<rect width="48" height="10" y="6848" x="50" fill="#328e13" />
+<rect width="48" height="10" y="6848" x="100" fill="#172713" />
+<rect width="48" height="10" y="6848" x="150" fill="#340059" />
+<text y="6871" x="3">Combination 167</text><rect width="64.66666666666667" height="10" y="6874" x="0" fill="#c0b490" />
+<rect width="64.66666666666667" height="10" y="6874" x="66.66666666666667" fill="#abf5ed" />
+<rect width="64.66666666666667" height="10" y="6874" x="133.33333333333334" fill="#003e83" />
+<text y="6897" x="3">Combination 22</text><rect width="98" height="10" y="6900" x="0" fill="#ffff00" />
+<rect width="98" height="10" y="6900" x="100" fill="#0024cc" />
+<text y="6923" x="3">Combination 62</text><rect width="98" height="10" y="6926" x="0" fill="#ffff00" />
+<rect width="98" height="10" y="6926" x="100" fill="#000000" />
+<text y="6949" x="3">Combination 158</text><rect width="64.66666666666667" height="10" y="6952" x="0" fill="#f2ff26" />
+<rect width="64.66666666666667" height="10" y="6952" x="66.66666666666667" fill="#c2612c" />
+<rect width="64.66666666666667" height="10" y="6952" x="133.33333333333334" fill="#7aff00" />
+<text y="6975" x="3">Combination 168</text><rect width="64.66666666666667" height="10" y="6978" x="0" fill="#f2ff26" />
+<rect width="64.66666666666667" height="10" y="6978" x="66.66666666666667" fill="#003e83" />
+<rect width="64.66666666666667" height="10" y="6978" x="133.33333333333334" fill="#7e3075" />
+<text y="7001" x="3">Combination 173</text><rect width="64.66666666666667" height="10" y="7004" x="0" fill="#f2ff26" />
+<rect width="64.66666666666667" height="10" y="7004" x="66.66666666666667" fill="#651300" />
+<rect width="64.66666666666667" height="10" y="7004" x="133.33333333333334" fill="#b5ffc2" />
+<text y="7027" x="3">Combination 189</text><rect width="64.66666666666667" height="10" y="7030" x="0" fill="#f2ff26" />
+<rect width="64.66666666666667" height="10" y="7030" x="66.66666666666667" fill="#172713" />
+<rect width="64.66666666666667" height="10" y="7030" x="133.33333333333334" fill="#6bffb3" />
+<text y="7053" x="3">Combination 253</text><rect width="48" height="10" y="7056" x="0" fill="#f2ff26" />
+<rect width="48" height="10" y="7056" x="50" fill="#ff7340" />
+<rect width="48" height="10" y="7056" x="100" fill="#340059" />
+<rect width="48" height="10" y="7056" x="150" fill="#1b3644" />
+<text y="7079" x="3">Combination 259</text><rect width="48" height="10" y="7082" x="0" fill="#f2ff26" />
+<rect width="48" height="10" y="7082" x="50" fill="#2dbc94" />
+<rect width="48" height="10" y="7082" x="100" fill="#0057ba" />
+<rect width="48" height="10" y="7082" x="150" fill="#9cb29e" />
+<text y="7105" x="3">Combination 289</text><rect width="48" height="10" y="7108" x="0" fill="#f2ff26" />
+<rect width="48" height="10" y="7108" x="50" fill="#bdf226" />
+<rect width="48" height="10" y="7108" x="100" fill="#202d85" />
+<rect width="48" height="10" y="7108" x="150" fill="#06004f" />
+<text y="7131" x="3">Combination 306</text><rect width="48" height="10" y="7134" x="0" fill="#f2ff26" />
+<rect width="48" height="10" y="7134" x="50" fill="#00d973" />
+<rect width="48" height="10" y="7134" x="100" fill="#19cc33" />
+<rect width="48" height="10" y="7134" x="150" fill="#bfffe6" />
+<text y="7157" x="3">Combination 107</text><rect width="98" height="10" y="7160" x="0" fill="#ffe600" />
+<rect width="98" height="10" y="7160" x="100" fill="#76844e" />
+<text y="7183" x="3">Combination 129</text><rect width="64.66666666666667" height="10" y="7186" x="0" fill="#ffe600" />
+<rect width="64.66666666666667" height="10" y="7186" x="66.66666666666667" fill="#b68400" />
+<rect width="64.66666666666667" height="10" y="7186" x="133.33333333333334" fill="#96bfe6" />
+<text y="7209" x="3">Combination 163</text><rect width="64.66666666666667" height="10" y="7212" x="0" fill="#ffe600" />
+<rect width="64.66666666666667" height="10" y="7212" x="66.66666666666667" fill="#b5ffc2" />
+<rect width="64.66666666666667" height="10" y="7212" x="133.33333333333334" fill="#008aa1" />
+<text y="7235" x="3">Combination 250</text><rect width="48" height="10" y="7238" x="0" fill="#c4bf33" />
+<rect width="48" height="10" y="7238" x="50" fill="#ff3319" />
+<rect width="48" height="10" y="7238" x="100" fill="#33ff7d" />
+<rect width="48" height="10" y="7238" x="150" fill="#bfffe6" />
+<text y="7261" x="3">Combination 66</text><rect width="98" height="10" y="7264" x="0" fill="#d1bd19" />
+<rect width="98" height="10" y="7264" x="100" fill="#58771e" />
+<text y="7287" x="3">Combination 148</text><rect width="64.66666666666667" height="10" y="7290" x="0" fill="#d1bd19" />
+<rect width="64.66666666666667" height="10" y="7290" x="66.66666666666667" fill="#ffab00" />
+<rect width="64.66666666666667" height="10" y="7290" x="133.33333333333334" fill="#29bdad" />
+<text y="7313" x="3">Combination 149</text><rect width="64.66666666666667" height="10" y="7316" x="0" fill="#d1bd19" />
+<rect width="64.66666666666667" height="10" y="7316" x="66.66666666666667" fill="#ff5200" />
+<rect width="64.66666666666667" height="10" y="7316" x="133.33333333333334" fill="#0f261f" />
+<text y="7339" x="3">Combination 156</text><rect width="64.66666666666667" height="10" y="7342" x="0" fill="#d1bd19" />
+<rect width="64.66666666666667" height="10" y="7342" x="66.66666666666667" fill="#94ff94" />
+<rect width="64.66666666666667" height="10" y="7342" x="133.33333333333334" fill="#2619d1" />
+<text y="7365" x="3">Combination 42</text><rect width="98" height="10" y="7368" x="0" fill="#e0b81f" />
+<rect width="98" height="10" y="7368" x="100" fill="#2619d1" />
+<text y="7391" x="3">Combination 96</text><rect width="98" height="10" y="7394" x="0" fill="#e0b81f" />
+<rect width="98" height="10" y="7394" x="100" fill="#718600" />
+<text y="7417" x="3">Combination 118</text><rect width="98" height="10" y="7420" x="0" fill="#e0b81f" />
+<rect width="98" height="10" y="7420" x="100" fill="#362304" />
+<text y="7443" x="3">Combination 222</text><rect width="64.66666666666667" height="10" y="7446" x="0" fill="#e0b81f" />
+<rect width="64.66666666666667" height="10" y="7446" x="66.66666666666667" fill="#ff8c00" />
+<rect width="64.66666666666667" height="10" y="7446" x="133.33333333333334" fill="#c05200" />
+<text y="7469" x="3">Combination 114</text><rect width="98" height="10" y="7472" x="0" fill="#ffab00" />
+<rect width="98" height="10" y="7472" x="100" fill="#008aa1" />
+<text y="7495" x="3">Combination 2</text><rect width="98" height="10" y="7498" x="0" fill="#ff8c00" />
+<rect width="98" height="10" y="7498" x="100" fill="#0d2b52" />
+<text y="7521" x="3">Combination 53</text><rect width="98" height="10" y="7524" x="0" fill="#ff8c00" />
+<rect width="98" height="10" y="7524" x="100" fill="#2d0060" />
+<text y="7547" x="3">Combination 89</text><rect width="98" height="10" y="7550" x="0" fill="#ff8c00" />
+<rect width="98" height="10" y="7550" x="100" fill="#202d85" />
+<text y="7573" x="3">Combination 288</text><rect width="48" height="10" y="7576" x="0" fill="#ff8c00" />
+<rect width="48" height="10" y="7576" x="50" fill="#503d00" />
+<rect width="48" height="10" y="7576" x="100" fill="#6b2e63" />
+<rect width="48" height="10" y="7576" x="150" fill="#000000" />
+<text y="7599" x="3">Combination 211</text><rect width="64.66666666666667" height="10" y="7602" x="0" fill="#ff7340" />
+<rect width="64.66666666666667" height="10" y="7602" x="66.66666666666667" fill="#99b333" />
+<rect width="64.66666666666667" height="10" y="7602" x="133.33333333333334" fill="#000831" />
+<text y="7625" x="3">Combination 7</text><rect width="98" height="10" y="7628" x="0" fill="#ff5200" />
+<rect width="98" height="10" y="7628" x="100" fill="#b3e8c2" />
+<text y="7651" x="3">Combination 46</text><rect width="98" height="10" y="7654" x="0" fill="#ff5200" />
+<rect width="98" height="10" y="7654" x="100" fill="#000000" />
+<text y="7677" x="3">Combination 141</text><rect width="64.66666666666667" height="10" y="7680" x="0" fill="#ff5200" />
+<rect width="64.66666666666667" height="10" y="7680" x="66.66666666666667" fill="#a6ff47" />
+<rect width="64.66666666666667" height="10" y="7680" x="133.33333333333334" fill="#0d2b52" />
+<text y="7703" x="3">Combination 274</text><rect width="48" height="10" y="7706" x="0" fill="#ff3319" />
+<rect width="48" height="10" y="7706" x="50" fill="#7e8743" />
+<rect width="48" height="10" y="7706" x="100" fill="#4f8fe6" />
+<rect width="48" height="10" y="7706" x="150" fill="#9161f2" />
+<text y="7729" x="3">Combination 340</text><rect width="48" height="10" y="7732" x="0" fill="#ff3319" />
+<rect width="48" height="10" y="7732" x="50" fill="#33ff7d" />
+<rect width="48" height="10" y="7732" x="100" fill="#b5d1cc" />
+<rect width="48" height="10" y="7732" x="150" fill="#000000" />
+<text y="7755" x="3">Combination 1</text><rect width="98" height="10" y="7758" x="0" fill="#de4500" />
+<rect width="98" height="10" y="7758" x="100" fill="#29bdad" />
+<text y="7781" x="3">Combination 8</text><rect width="98" height="10" y="7784" x="0" fill="#c2612c" />
+<rect width="98" height="10" y="7784" x="100" fill="#b8b8ff" />
+<text y="7807" x="3">Combination 10</text><rect width="98" height="10" y="7810" x="0" fill="#c2612c" />
+<rect width="98" height="10" y="7810" x="100" fill="#7e8743" />
+<text y="7833" x="3">Combination 103</text><rect width="98" height="10" y="7836" x="0" fill="#c2612c" />
+<rect width="98" height="10" y="7836" x="100" fill="#2d0060" />
+<text y="7859" x="3">Combination 172</text><rect width="64.66666666666667" height="10" y="7862" x="0" fill="#c2612c" />
+<rect width="64.66666666666667" height="10" y="7862" x="66.66666666666667" fill="#008aa1" />
+<rect width="64.66666666666667" height="10" y="7862" x="133.33333333333334" fill="#3400a3" />
+<text y="7885" x="3">Combination 36</text><rect width="98" height="10" y="7888" x="0" fill="#baa600" />
+<rect width="98" height="10" y="7888" x="100" fill="#b5ffc2" />
+<text y="7911" x="3">Combination 65</text><rect width="98" height="10" y="7914" x="0" fill="#baa600" />
+<rect width="98" height="10" y="7914" x="100" fill="#80ffcc" />
+<text y="7937" x="3">Combination 160</text><rect width="64.66666666666667" height="10" y="7940" x="0" fill="#baa600" />
+<rect width="64.66666666666667" height="10" y="7940" x="66.66666666666667" fill="#5e4017" />
+<rect width="64.66666666666667" height="10" y="7940" x="133.33333333333334" fill="#417777" />
+<text y="7963" x="3">Combination 146</text><rect width="64.66666666666667" height="10" y="7966" x="0" fill="#b68400" />
+<rect width="64.66666666666667" height="10" y="7966" x="66.66666666666667" fill="#505423" />
+<rect width="64.66666666666667" height="10" y="7966" x="133.33333333333334" fill="#1b8e13" />
+<text y="7989" x="3">Combination 159</text><rect width="64.66666666666667" height="10" y="7992" x="0" fill="#b68400" />
+<rect width="64.66666666666667" height="10" y="7992" x="66.66666666666667" fill="#80ffcc" />
+<rect width="64.66666666666667" height="10" y="7992" x="133.33333333333334" fill="#b8b8ff" />
+<text y="8015" x="3">Combination 236</text><rect width="64.66666666666667" height="10" y="8018" x="0" fill="#b68400" />
+<rect width="64.66666666666667" height="10" y="8018" x="66.66666666666667" fill="#0024cc" />
+<rect width="64.66666666666667" height="10" y="8018" x="133.33333333333334" fill="#754260" />
+<text y="8041" x="3">Combination 196</text><rect width="64.66666666666667" height="10" y="8044" x="0" fill="#a6d40d" />
+<rect width="64.66666666666667" height="10" y="8044" x="66.66666666666667" fill="#abf5ed" />
+<rect width="64.66666666666667" height="10" y="8044" x="133.33333333333334" fill="#4733ff" />
+<text y="8067" x="3">Combination 93</text><rect width="198" height="10" y="8070" x="0" fill="#a6e6db" />
+<text y="8093" x="3">Combination 100</text><rect width="98" height="10" y="8096" x="0" fill="#888d2a" />
+<rect width="98" height="10" y="8096" x="100" fill="#6e66d4" />
+<text y="8119" x="3">Combination 41</text><rect width="98" height="10" y="8122" x="0" fill="#7e8743" />
+<rect width="98" height="10" y="8122" x="100" fill="#80ffcc" />
+<text y="8145" x="3">Combination 29</text><rect width="98" height="10" y="8148" x="0" fill="#759243" />
+<rect width="98" height="10" y="8148" x="100" fill="#96bfe6" />
+<text y="8171" x="3">Combination 207</text><rect width="64.66666666666667" height="10" y="8174" x="0" fill="#9b5348" />
+<rect width="64.66666666666667" height="10" y="8174" x="66.66666666666667" fill="#b3e8c2" />
+<rect width="64.66666666666667" height="10" y="8174" x="133.33333333333334" fill="#000000" />
+<text y="8197" x="3">Combination 318</text><rect width="48" height="10" y="8200" x="0" fill="#706934" />
+<rect width="48" height="10" y="8200" x="50" fill="#324e2a" />
+<rect width="48" height="10" y="8200" x="100" fill="#00592e" />
+<rect width="48" height="10" y="8200" x="150" fill="#0f261f" />
+<text y="8223" x="3">Combination 73</text><rect width="98" height="10" y="8226" x="0" fill="#5e4017" />
+<rect width="98" height="10" y="8226" x="100" fill="#85b857" />
+<text y="8249" x="3">Combination 24</text><rect width="98" height="10" y="8252" x="0" fill="#503d00" />
+<rect width="98" height="10" y="8252" x="100" fill="#7e3075" />
+<text y="8275" x="3">Combination 28</text><rect width="98" height="10" y="8278" x="0" fill="#651300" />
+<rect width="98" height="10" y="8278" x="100" fill="#000831" />
+<text y="8301" x="3">Combination 79</text><rect width="98" height="10" y="8304" x="0" fill="#651300" />
+<rect width="98" height="10" y="8304" x="100" fill="#2dbc94" />
+<text y="8327" x="3">Combination 98</text><rect width="98" height="10" y="8330" x="0" fill="#651300" />
+<rect width="98" height="10" y="8330" x="100" fill="#202d85" />
+<text y="8353" x="3">Combination 19</text><rect width="98" height="10" y="8356" x="0" fill="#522000" />
+<rect width="98" height="10" y="8356" x="100" fill="#7aff00" />
+<text y="8379" x="3">Combination 74</text><rect width="98" height="10" y="8382" x="0" fill="#b5ffc2" />
+<rect width="98" height="10" y="8382" x="100" fill="#2dbc94" />
+<text y="8405" x="3">Combination 202</text><rect width="64.66666666666667" height="10" y="8408" x="0" fill="#b5ffc2" />
+<rect width="64.66666666666667" height="10" y="8408" x="66.66666666666667" fill="#94ff94" />
+<rect width="64.66666666666667" height="10" y="8408" x="133.33333333333334" fill="#1b3644" />
+<text y="8431" x="3">Combination 61</text><rect width="98" height="10" y="8434" x="0" fill="#bdf226" />
+<rect width="98" height="10" y="8434" x="100" fill="#340059" />
+<text y="8457" x="3">Combination 291</text><rect width="48" height="10" y="8460" x="0" fill="#bdf226" />
+<rect width="48" height="10" y="8460" x="50" fill="#33ff7d" />
+<rect width="48" height="10" y="8460" x="100" fill="#94ff94" />
+<rect width="48" height="10" y="8460" x="150" fill="#80ffcc" />
+<text y="8483" x="3">Combination 347</text><rect width="48" height="10" y="8486" x="0" fill="#99b333" />
+<rect width="48" height="10" y="8486" x="50" fill="#33ff7d" />
+<rect width="48" height="10" y="8486" x="100" fill="#0057ba" />
+<rect width="48" height="10" y="8486" x="150" fill="#b875eb" />
+<text y="8509" x="3">Combination 188</text><rect width="64.66666666666667" height="10" y="8512" x="0" fill="#85b857" />
+<rect width="64.66666666666667" height="10" y="8512" x="66.66666666666667" fill="#96bfe6" />
+<rect width="64.66666666666667" height="10" y="8512" x="133.33333333333334" fill="#94ff94" />
+<text y="8535" x="3">Combination 15</text><rect width="98" height="10" y="8538" x="0" fill="#00d973" />
+<rect width="98" height="10" y="8538" x="100" fill="#b8b8ff" />
+<text y="8561" x="3">Combination 54</text><rect width="98" height="10" y="8564" x="0" fill="#00d973" />
+<rect width="98" height="10" y="8564" x="100" fill="#a6e6db" />
+<text y="8587" x="3">Combination 44</text><rect width="98" height="10" y="8590" x="0" fill="#23c17c" />
+<rect width="98" height="10" y="8590" x="100" fill="#4f8fe6" />
+<text y="8613" x="3">Combination 38</text><rect width="98" height="10" y="8616" x="0" fill="#1b8e13" />
+<rect width="98" height="10" y="8616" x="100" fill="#0024cc" />
+<text y="8639" x="3">Combination 5</text><rect width="98" height="10" y="8642" x="0" fill="#328e13" />
+<rect width="98" height="10" y="8642" x="100" fill="#003e83" />
+<text y="8665" x="3">Combination 49</text><rect width="98" height="10" y="8668" x="0" fill="#abf5ed" />
+<rect width="98" height="10" y="8668" x="100" fill="#0d75ff" />
+<text y="8691" x="3">Combination 75</text><rect width="98" height="10" y="8694" x="0" fill="#abf5ed" />
+<rect width="98" height="10" y="8694" x="100" fill="#202d85" />
+<text y="8717" x="3">Combination 119</text><rect width="98" height="10" y="8720" x="0" fill="#a6e6db" />
+<rect width="98" height="10" y="8720" x="100" fill="#0d2b52" />
+<text y="8743" x="3">Combination 139</text><rect width="64.66666666666667" height="10" y="8746" x="0" fill="#96bfe6" />
+<rect width="64.66666666666667" height="10" y="8746" x="66.66666666666667" fill="#000831" />
+<rect width="64.66666666666667" height="10" y="8746" x="133.33333333333334" fill="#b5d1cc" />
+<text y="8769" x="3">Combination 20</text><rect width="98" height="10" y="8772" x="0" fill="#80ffcc" />
+<rect width="98" height="10" y="8772" x="100" fill="#cc85d1" />
+<text y="8795" x="3">Combination 67</text><rect width="98" height="10" y="8798" x="0" fill="#4f8fe6" />
+<rect width="98" height="10" y="8798" x="100" fill="#0d2b52" />
+<text y="8821" x="3">Combination 143</text><rect width="64.66666666666667" height="10" y="8824" x="0" fill="#0d75ff" />
+<rect width="64.66666666666667" height="10" y="8824" x="66.66666666666667" fill="#b875eb" />
+<rect width="64.66666666666667" height="10" y="8824" x="133.33333333333334" fill="#9cb29e" />
+<text y="8847" x="3">Combination 106</text><rect width="98" height="10" y="8850" x="0" fill="#008aa1" />
+<rect width="98" height="10" y="8850" x="100" fill="#06004f" />
+<text y="8873" x="3">Combination 187</text><rect width="64.66666666666667" height="10" y="8876" x="0" fill="#0057ba" />
+<rect width="64.66666666666667" height="10" y="8876" x="66.66666666666667" fill="#bfabcc" />
+<rect width="64.66666666666667" height="10" y="8876" x="133.33333333333334" fill="#9c52f2" />
+<text y="8899" x="3">Combination 218</text><rect width="64.66666666666667" height="10" y="8902" x="0" fill="#0057ba" />
+<rect width="64.66666666666667" height="10" y="8902" x="66.66666666666667" fill="#b8b8ff" />
+<rect width="64.66666666666667" height="10" y="8902" x="133.33333333333334" fill="#5c7287" />
+<text y="8925" x="3">Combination 56</text><rect width="98" height="10" y="8928" x="0" fill="#bfabcc" />
+<rect width="98" height="10" y="8928" x="100" fill="#2619d1" />
+<text y="8951" x="3">Combination 64</text><rect width="98" height="10" y="8954" x="0" fill="#9c52f2" />
+<rect width="98" height="10" y="8954" x="100" fill="#4d52de" />
+<text y="8977" x="3">Combination 183</text><rect width="64.66666666666667" height="10" y="8980" x="0" fill="#5c7287" />
+<rect width="64.66666666666667" height="10" y="8980" x="66.66666666666667" fill="#7e3075" />
+<rect width="64.66666666666667" height="10" y="8980" x="133.33333333333334" fill="#3400a3" />
+<text y="9003" x="3">Combination 57</text><rect width="98" height="10" y="9006" x="0" fill="#6b2e63" />
+<rect width="98" height="10" y="9006" x="100" fill="#1b3644" />
+<text y="9029" x="3">Combination 69</text><rect width="98" height="10" y="9032" x="0" fill="#9cb29e" />
+<rect width="98" height="10" y="9032" x="100" fill="#000000" />
+    </svg>
+  
