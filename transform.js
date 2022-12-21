@@ -10,6 +10,9 @@ swatchcolors.forEach(swatch => {
   });
 });
 
+const sortedIds = Array.from(combinations.keys()).sort((a, b) => a - b);
+
+
 colors.forEach(color => {
   swatchcolors.find(swc => swc.name === color.name).combinations.forEach(combinationId => {
     color.combinations = swatchcolors.find(swc => swc.name === color.name).combinations;
@@ -23,7 +26,8 @@ colors.forEach(color => {
 
 const comboArray = [];
 
-combinations.forEach((value, key) => {
+sortedIds.forEach((key) => {
+  const value = combinations.get(key);
   comboArray.push({
     name: 'Combination ' + key,
     id: key,
