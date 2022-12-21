@@ -5,7 +5,7 @@
   "main": "dist/palettes.js",
   "type": "module",
   "scripts": {
-    "build": "node ./transform.js && palette-aldente ./combinations.json",
+    "build": "node ./transform.js && palette-aldente ./combinations.json --no-img",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
