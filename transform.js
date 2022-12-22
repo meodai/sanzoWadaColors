@@ -14,11 +14,12 @@ const sortedIds = Array.from(combinations.keys()).sort((a, b) => a - b);
 
 colors.forEach(color => {
   swatchcolors.find(swc => swc.name === color.name).combinations.forEach(combinationId => {
-    color.combinations = swatchcolors.find(swc => swc.name === color.name).combinations;
     delete color.rgb;
     delete color.rgb_array;
     delete color.slug;
     delete color.use_count;
+    delete color.combinations;
+    delete color.cmyk;
     combinations.get(combinationId).push(color);
   });
 });       
