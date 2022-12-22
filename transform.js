@@ -12,7 +12,6 @@ swatchcolors.forEach(swatch => {
 
 const sortedIds = Array.from(combinations.keys()).sort((a, b) => a - b);
 
-
 colors.forEach(color => {
   swatchcolors.find(swc => swc.name === color.name).combinations.forEach(combinationId => {
     color.combinations = swatchcolors.find(swc => swc.name === color.name).combinations;

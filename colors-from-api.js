@@ -4460,5 +4460,44 @@ export const colors = [
       344
     ],
     "use_count":23
+  },
+  {  
+    "index":72,
+    "name":"Citrine",
+    "slug":"citrine",
+    "cmyk_array":[  
+      36,
+      32,
+      100,
+      0
+    ],
+    "cmyk":"C:36 / M:32 / Y:100 / K:0",
+    "rgb_array":[  
+      136,
+      172,
+      0
+    ],
+    "rgb":"R:136 / G:172 / B:0",
+    "hex":"#000000",
+    "combinations":[  
+      59, 93, 132, 133, 262
+    ],
+    "use_count":5
+  },
+  {  
+    "index":98,
+    "name":"Chromium Green",
+    "slug":"chromium-green",
+    "cmyk_array":[  
+      50,
+      16,
+      58,
+      20
+    ],
+    "hex":"#66AB56",
+    "combinations":[  
+      105, 200, 219, 283
+    ],
+    "use_count":5
   }
 ];
