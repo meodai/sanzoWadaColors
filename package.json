@@ -1,6 +1,6 @@
 {
   "name": "sanzowadacolors",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Color palettes from Sanzo Wada's Color Book ",
   "main": "dist/palettes.js",
   "type": "module",
@@ -28,5 +28,9 @@
   "homepage": "https://github.com/meodai/sanzoWadaColors#readme",
   "devDependencies": {
     "palette-aldente": "^1.11.1"
+  },
+  "exports": {
+    "import": "./dist/palettes.esm.js",
+    "require": "./dist/palettes.js"
   }
 }
